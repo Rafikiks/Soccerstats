@@ -1,0 +1,693 @@
+Player,Age,Squad,Comp,Pos,Role,Min,Gls,Ast,G+A,xG,xAG,PrgP,starter_ratio
+Rodrigo Abajas,21.0,Valencia,es La Liga,DF,Finisher,65,0,0,0,0.1,0.0,2,1.0
+James Abankwah,20.0,Udinese,it Serie A,"DF,MF",Finisher,88,0,0,0,0.1,0.0,4,0.0
+Keyliane Abdallah,18.0,Marseille,fr Ligue 1,FW,Finisher,3,0,0,0,0.0,0.0,0,0.0
+Nabil Aberdin,21.0,Getafe,es La Liga,MF,Finisher,263,0,0,0,0.0,0.0,6,0.5714285714285714
+Matthis Abline,21.0,Nantes,fr Ligue 1,FW,Defender,2768,9,2,11,8.5,3.8,48,0.9705882352941176
+Federico Accornero,20.0,Genoa,it Serie A,MF,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Joshua Acheampong,18.0,Chelsea,eng Premier League,DF,Finisher,170,0,0,0,0.2,0.0,8,0.5
+Martin Adeline,20.0,Reims,fr Ligue 1,MF,Finisher,26,0,0,0,0.0,0.0,0,0.0
+Vasilije Adžić,18.0,Juventus,it Serie A,"MF,FW",Finisher,42,0,0,0,0.0,0.0,1,0.0
+Asher Agbinone,18.0,Crystal Palace,eng Premier League,MF,Finisher,6,0,0,0,0.0,0.0,0,0.0
+Jeremy Agbonifo,18.0,Lens,fr Ligue 1,"FW,MF",Finisher,300,1,0,1,0.7,0.2,6,0.125
+Lorenzo Aguado,21.0,Real Madrid,es La Liga,DF,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Honest Ahanor,16.0,Genoa,it Serie A,"DF,MF",Finisher,270,0,0,0,0.5,0.1,3,0.5
+Ayman Aiki,19.0,Saint-Étienne,fr Ligue 1,"FW,MF",Finisher,127,0,0,0,0.1,0.0,5,0.2
+Junior Ajayi,19.0,Hellas Verona,it Serie A,FW,Finisher,13,0,0,0,0.0,0.0,1,0.0
+Ümit Akdag,20.0,Toulouse,fr Ligue 1,DF,Finisher,500,0,0,0,0.1,0.1,29,0.6666666666666666
+Ilias Akhomach,20.0,Villarreal,es La Liga,"MF,FW",Finisher,584,1,0,1,0.6,1.0,12,0.6363636363636364
+Ibrahim Alani,18.0,Valladolid,es La Liga,MF,Finisher,160,0,0,0,0.0,0.0,5,0.3333333333333333
+Carlos Alcaraz,21.0,Southampton,eng Premier League,MF,Finisher,10,0,0,0,0.1,0.1,6,0.0
+Carlos Alcaraz,21.0,Everton,eng Premier League,"FW,MF",Playmaker,764,2,3,5,1.7,1.6,42,0.4666666666666667
+Mohamed Ali Cho,20.0,Nice,fr Ligue 1,"FW,MF",Playmaker,1621,3,4,7,4.0,4.0,59,0.7777777777777778
+Iker Almena,20.0,Girona,es La Liga,"FW,DF",Finisher,48,0,1,1,0.0,0.7,2,0.0
+Hugo Álvarez,21.0,Celta Vigo,es La Liga,"MF,DF",Playmaker,1572,4,3,7,2.5,1.1,60,0.6153846153846154
+Will Alves,19.0,Leicester City,eng Premier League,FW,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Harry Amass,17.0,Manchester Utd,eng Premier League,DF,Finisher,346,0,0,0,0.1,0.0,7,0.8
+Aurele Amenda,21.0,Eint Frankfurt,de Bundesliga,DF,Finisher,96,0,0,0,0.0,0.3,2,0.125
+Samuel Amo-Ameyaw,18.0,Southampton,eng Premier League,"FW,DF",Finisher,28,0,0,0,0.0,0.1,0,0.0
+Samuel Amo-Ameyaw,18.0,Strasbourg,fr Ligue 1,"DF,MF",Finisher,320,2,0,2,0.7,0.6,12,0.3333333333333333
+Mathis Amougou,18.0,Chelsea,eng Premier League,MF,Finisher,8,0,0,0,0.0,0.0,1,0.0
+Mathis Amougou,18.0,Saint-Étienne,fr Ligue 1,MF,Finisher,859,0,0,0,0.5,0.4,36,0.5294117647058824
+Elliot Anderson,21.0,Nott'ham Forest,eng Premier League,MF,Playmaker,2728,2,6,8,2.1,3.3,143,0.8918918918918919
+Lorenzo Anghelè,19.0,Juventus,it Serie A,FW,Finisher,6,0,0,0,0.0,0.0,1,0.0
+Leandro Antonetti,21.0,Sevilla,es La Liga,FW,Finisher,28,0,0,0,0.1,0.0,0,0.0
+Kyllian Antonio,16.0,Lens,fr Ligue 1,"DF,MF",Finisher,139,0,0,0,0.1,0.0,0,0.6666666666666666
+Antoniu,21.0,Espanyol,es La Liga,"FW,MF",Finisher,1022,0,1,1,0.9,1.1,28,0.5
+Harrison Armstrong,17.0,Everton,eng Premier League,MF,Finisher,48,0,0,0,0.4,0.1,1,0.0
+Hákon Arnar Haraldsson,21.0,Lille,fr Ligue 1,"MF,FW",Playmaker,1755,5,3,8,3.8,2.8,102,0.84
+Sergio Arribas,21.0,Betis,es La Liga,DF,Finisher,90,0,0,0,0.0,0.0,1,1.0
+Arthur,21.0,Leverkusen,de Bundesliga,DF,Finisher,752,0,1,1,0.1,0.4,25,0.35
+Raúl Asencio,21.0,Real Madrid,es La Liga,DF,Playmaker,1670,0,1,1,0.1,0.6,27,0.782608695652174
+Yaser Asprilla,20.0,Girona,es La Liga,"FW,MF",Playmaker,1405,3,1,4,2.1,2.8,77,0.5555555555555556
+Dehmaine Assoumani,19.0,Nantes,fr Ligue 1,"MF,FW",Finisher,98,0,0,0,0.1,0.9,1,0.0
+Valentin Atangana Edoa,18.0,Reims,fr Ligue 1,MF,Playmaker,2854,1,0,1,2.5,1.1,93,0.9705882352941176
+Arthur Atta,21.0,Udinese,it Serie A,"MF,FW",Playmaker,1251,0,1,1,1.3,1.4,57,0.4444444444444444
+Yasin Ayari,20.0,Brighton,eng Premier League,MF,Playmaker,1965,2,1,3,2.4,2.3,75,0.6470588235294118
+Adam Aznou,18.0,Valladolid,es La Liga,DF,Finisher,876,0,0,0,0.3,0.3,25,0.7692307692307693
+Adam Aznou,18.0,Bayern Munich,de Bundesliga,DF,Finisher,17,0,0,0,0.0,0.0,1,0.0
+Papa Ba,19.0,Girona,es La Liga,MF,Finisher,48,0,0,0,0.0,0.0,0,0.0
+Jacopo Bacci,19.0,Empoli,it Serie A,MF,Finisher,31,0,0,0,0.0,0.0,1,0.0
+Aliou Badara Baldé,21.0,Bochum,de Bundesliga,"MF,FW",Finisher,91,0,0,0,0.2,0.2,1,0.0
+Juma Bah,18.0,Valladolid,es La Liga,DF,Finisher,864,0,0,0,0.3,0.0,13,0.8333333333333334
+Juma Bah,18.0,Lens,fr Ligue 1,DF,Finisher,686,0,0,0,0.1,0.2,9,0.8
+Stefan Bajcetic,19.0,Las Palmas,es La Liga,"MF,DF",Finisher,969,1,0,1,0.3,0.2,39,0.8571428571428571
+Darryl Bakola,16.0,Marseille,fr Ligue 1,"DF,MF",Finisher,14,0,0,0,0.0,0.0,0,0.0
+Dilane Bakwa,21.0,Strasbourg,fr Ligue 1,"MF,DF",Defender,2497,6,8,14,4.7,6.6,129,0.9666666666666667
+Tommaso Baldanzi,21.0,Roma,it Serie A,"MF,FW",Finisher,832,1,1,2,1.4,1.0,23,0.16129032258064516
+Alejandro Balde,20.0,Barcelona,es La Liga,DF,Playmaker,2284,0,4,4,0.5,3.4,93,0.8125
+Carlos Baleba,20.0,Brighton,eng Premier League,MF,Playmaker,2661,3,1,4,3.1,1.3,118,0.9117647058823529
+Mohamed Bamba,19.0,Reims,fr Ligue 1,MF,Finisher,10,0,0,0,0.0,0.0,3,0.0
+Samuel Bamba,20.0,Bochum,de Bundesliga,"FW,MF",Finisher,27,0,0,0,0.1,0.0,5,0.0
+Noahkai Banks,17.0,Augsburg,de Bundesliga,DF,Finisher,278,0,0,0,0.1,0.0,8,0.25
+Adrian Baquerin,17.0,Valladolid,es La Liga,FW,Finisher,49,0,0,0,0.4,0.0,1,0.0
+Valentín Barco,20.0,Sevilla,es La Liga,"DF,FW",Finisher,288,0,0,0,0.3,0.6,13,0.42857142857142855
+Valentín Barco,20.0,Strasbourg,fr Ligue 1,"MF,DF",Playmaker,1157,0,2,2,0.5,1.5,64,1.0
+Bradley Barcola,21.0,Paris S-G,fr Ligue 1,FW,Defender,2181,14,10,24,13.4,10.1,96,0.7941176470588235
+Téo Barisic,19.0,Lyon,fr Ligue 1,DF,Finisher,2,0,0,0,0.0,0.0,0,0.0
+Pablo Barrios,21.0,Atlético Madrid,es La Liga,MF,Playmaker,2330,1,4,5,1.3,2.4,142,0.9032258064516129
+Thierno Barry,21.0,Villarreal,es La Liga,FW,Defender,2323,11,4,15,12.5,2.9,27,0.7142857142857143
+Davide Bartesaghi,18.0,Milan,it Serie A,DF,Finisher,118,0,0,0,0.0,0.1,2,0.25
+Aboubacar Bassinga,19.0,Las Palmas,es La Liga,MF,Finisher,4,0,0,0,0.0,0.0,0,0.0
+Rafael Bauza,19.0,Espanyol,es La Liga,MF,Finisher,183,0,0,0,0.1,0.0,7,0.4
+Maximilian Beier,21.0,Dortmund,de Bundesliga,"FW,MF",Defender,1591,8,5,13,7.7,3.3,33,0.5862068965517241
+Luken Beitia,20.0,Real Sociedad,es La Liga,DF,Finisher,8,0,0,0,0.0,0.0,0,0.0
+Ismael Bekhoucha,19.0,Getafe,es La Liga,"MF,DF",Finisher,69,0,0,0,0.0,0.0,1,0.0
+Reda Belahyane,20.0,Hellas Verona,it Serie A,MF,Playmaker,1658,0,2,2,0.2,1.0,73,0.7727272727272727
+Reda Belahyane,20.0,Lazio,it Serie A,MF,Finisher,198,0,0,0,0.0,0.0,10,0.16666666666666666
+Jude Bellingham,21.0,Real Madrid,es La Liga,MF,Defender,2488,9,8,17,11.4,3.9,199,0.9354838709677419
+Jeanuël Belocian,19.0,Leverkusen,de Bundesliga,"DF,MF",Finisher,68,0,0,0,0.0,0.0,3,0.2
+Eliesse Ben Seghir,19.0,Monaco,fr Ligue 1,"MF,FW",Defender,1750,6,3,9,5.5,5.2,122,0.5757575757575758
+Iker Benito,21.0,Osasuna,es La Liga,"FW,MF",Finisher,37,0,0,0,0.0,0.0,0,0.0
+Lucas Beraldo,20.0,Paris S-G,fr Ligue 1,DF,Playmaker,2011,1,0,1,0.9,0.4,131,0.88
+Lucas Bergvall,18.0,Tottenham,eng Premier League,MF,Playmaker,1212,0,1,1,0.7,0.6,49,0.4074074074074074
+Medon Berisha,20.0,Lecce,it Serie A,MF,Playmaker,716,0,1,1,0.7,0.6,42,0.4117647058823529
+Marc Bernal,17.0,Barcelona,es La Liga,MF,Finisher,242,0,0,0,0.1,0.0,8,1.0
+Victor Bernth Kristiansen,21.0,Leicester City,eng Premier League,DF,Playmaker,2482,0,1,1,0.3,1.4,70,0.9666666666666667
+Alessandro Bianco,21.0,Monza,it Serie A,MF,Playmaker,2600,1,0,1,1.3,1.2,125,0.8529411764705882
+Alessandro Bianco,21.0,Fiorentina,it Serie A,MF,Finisher,18,0,0,0,0.0,0.0,0,0.0
+Mika Biereth,21.0,Monaco,fr Ligue 1,FW,Defender,1228,13,2,15,11.3,4.5,24,1.0
+Tom Bischof,19.0,Hoffenheim,de Bundesliga,"MF,FW",Playmaker,2559,5,2,7,2.2,3.6,138,0.967741935483871
+Emmanuel Biumla,19.0,Angers,fr Ligue 1,DF,Finisher,1336,1,0,1,0.7,0.0,16,0.8823529411764706
+Oscar Bobb,21.0,Manchester City,eng Premier League,FW,Finisher,16,0,0,0,0.0,0.1,1,0.0
+Mathéo Bodmer,20.0,Le Havre,fr Ligue 1,MF,Finisher,6,0,0,0,0.0,0.0,0,0.0
+Lamare Bogarde,20.0,Aston Villa,eng Premier League,"DF,MF",Finisher,476,0,0,0,0.0,0.1,14,0.625
+Warren Bondo,20.0,Monza,it Serie A,MF,Playmaker,1618,0,0,0,0.4,0.3,39,0.95
+Warren Bondo,20.0,Milan,it Serie A,MF,Finisher,162,0,0,0,0.0,0.1,7,0.75
+Ange-Yoan Bonny,20.0,Parma,it Serie A,FW,Defender,2529,6,4,10,9.4,2.9,53,0.8108108108108109
+Saïmon Bouabré,18.0,Monaco,fr Ligue 1,"MF,FW",Finisher,97,0,0,0,0.0,0.0,2,0.3333333333333333
+Ayyoub Bouaddi,16.0,Lille,fr Ligue 1,MF,Finisher,1151,0,1,1,0.1,1.0,37,0.4583333333333333
+Badredine Bouanani,19.0,Nice,fr Ligue 1,"MF,FW",Playmaker,1099,3,3,6,2.7,2.4,44,0.4230769230769231
+Justin Bourgault,18.0,Brest,fr Ligue 1,DF,Finisher,122,1,0,1,0.1,0.1,4,1.0
+Conor Bradley,21.0,Liverpool,eng Premier League,DF,Playmaker,754,0,2,2,0.7,1.4,33,0.3684210526315789
+Iker Bravo,19.0,Udinese,it Serie A,"FW,MF",Finisher,682,2,1,3,0.9,0.4,18,0.13793103448275862
+Nathaniel Brown,21.0,Eint Frankfurt,de Bundesliga,"DF,MF",Playmaker,1947,3,6,9,2.2,5.1,63,0.8461538461538461
+Manu Bueno,20.0,Sevilla,es La Liga,"MF,FW",Finisher,140,1,0,1,0.1,0.0,5,0.1111111111111111
+Endika Buján,21.0,Athletic Club,es La Liga,FW,Finisher,7,0,0,0,0.0,0.0,0,0.0
+Facundo Buonanotte,19.0,Leicester City,eng Premier League,"FW,MF",Playmaker,1523,5,2,7,3.9,3.1,54,0.45161290322580644
+Rareș-Cătălin Burnete,20.0,Lecce,it Serie A,FW,Finisher,28,0,0,0,0.1,0.0,0,0.0
+Nathan Butler-Oyedeji,21.0,Arsenal,eng Premier League,FW,Finisher,7,0,0,0,0.1,0.0,0,0.0
+Pau Cabanes,19.0,Villarreal,es La Liga,"MF,FW",Finisher,163,1,0,1,0.5,0.4,11,0.0
+Pau Cabanes,19.0,Alavés,es La Liga,"MF,FW",Finisher,188,0,0,0,0.0,0.0,5,0.3333333333333333
+Alessio Cacciamani,17.0,Torino,it Serie A,"MF,DF",Finisher,31,0,0,0,0.0,0.0,1,0.0
+Issiaga Camara,19.0,Nice,fr Ligue 1,MF,Finisher,20,0,0,0,0.0,0.0,2,0.0
+Lamine Camara,20.0,Monaco,fr Ligue 1,MF,Playmaker,2054,2,7,9,2.3,4.4,141,0.8620689655172413
+Ousmane Camara,21.0,Angers,fr Ligue 1,DF,Finisher,252,0,0,0,0.1,0.0,3,1.0
+Francesco Camarda,16.0,Milan,it Serie A,"FW,MF",Finisher,206,0,0,0,0.6,0.5,1,0.1
+Eduardo Camavinga,21.0,Real Madrid,es La Liga,"MF,DF",Playmaker,1102,1,2,3,0.4,0.8,61,0.5789473684210527
+Axel Camblan,20.0,Brest,fr Ligue 1,"MF,FW",Finisher,26,0,0,0,0.0,0.0,2,0.0
+Thomas Campaniello,16.0,Empoli,it Serie A,FW,Finisher,25,0,0,0,0.5,0.0,0,0.0
+Cole Campbell,18.0,Dortmund,de Bundesliga,"MF,FW",Finisher,22,0,0,0,0.0,0.0,0,0.0
+Peio Canales,19.0,Athletic Club,es La Liga,"MF,FW",Finisher,259,0,0,0,0.2,0.2,6,0.25
+Jaydee Canvot,18.0,Toulouse,fr Ligue 1,"DF,MF",Finisher,1106,0,0,0,0.2,0.7,41,0.6666666666666666
+Gabin Capuano,18.0,Lens,fr Ligue 1,FW,Finisher,11,0,0,0,0.0,0.0,0,0.0
+Simon Cara,19.0,Montpellier,fr Ligue 1,"MF,FW",Finisher,9,0,0,0,0.0,0.0,0,0.0
+Franco Carboni,21.0,Venezia,it Serie A,DF,Finisher,226,0,0,0,0.0,0.1,6,0.375
+Valentin Carboni,19.0,Marseille,fr Ligue 1,"MF,FW",Finisher,103,0,0,0,0.0,0.1,4,0.25
+Tiago Cardoso,18.0,Gladbach,de Bundesliga,GK,Finisher,380,0,0,0,0.0,0.0,0,0.8
+José Carlos González,18.0,Las Palmas,es La Liga,DF,Finisher,11,0,0,0,0.0,0.0,0,0.0
+Fabio Carvalho,21.0,Brentford,eng Premier League,"FW,MF",Finisher,455,2,1,3,2.5,0.7,17,0.15789473684210525
+Cesare Casadei,21.0,Torino,it Serie A,MF,Finisher,1017,1,1,2,1.2,0.4,36,0.8666666666666667
+Marc Casado,20.0,Barcelona,es La Liga,MF,Playmaker,1611,1,3,4,1.1,1.4,107,0.8695652173913043
+Kaelan Casey,19.0,West Ham,eng Premier League,DF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Federico Cassa,18.0,Atalanta,it Serie A,"MF,FW",Finisher,14,0,0,0,0.0,0.0,1,0.0
+Santiago Castro,19.0,Bologna,it Serie A,FW,Defender,2294,8,4,12,7.7,2.9,39,0.75
+Enzo Caumont,20.0,Angers,fr Ligue 1,MF,Finisher,34,0,0,0,0.0,0.0,1,0.0
+Abdoulie Ceesay,20.0,St. Pauli,de Bundesliga,FW,Finisher,60,0,0,0,0.0,0.0,0,0.0
+El Chadaille Bitshiabu,19.0,RB Leipzig,de Bundesliga,DF,Finisher,1130,0,0,0,0.3,0.4,69,0.6190476190476191
+Fares Chaïbi,21.0,Eint Frankfurt,de Bundesliga,"MF,FW",Playmaker,1013,1,3,4,2.6,2.9,52,0.38461538461538464
+Raúl Chasco,20.0,Valladolid,es La Liga,DF,Finisher,130,0,0,0,0.0,0.0,3,0.5
+Anrie Chase,20.0,Stuttgart,de Bundesliga,DF,Finisher,734,0,0,0,0.1,0.0,28,0.5833333333333334
+Chema,19.0,Real Madrid,es La Liga,MF,Finisher,12,0,0,0,0.0,0.0,0,0.0
+Théo Chennahi,19.0,Montpellier,fr Ligue 1,DF,Finisher,181,0,0,0,0.2,0.0,0,0.5
+Sidiki Cherif,17.0,Angers,fr Ligue 1,FW,Finisher,324,0,0,0,0.7,0.2,3,0.42857142857142855
+Rayan Cherki,20.0,Lyon,fr Ligue 1,"FW,MF",Defender,2041,8,11,19,5.0,11.1,206,0.7333333333333333
+Youssef Chermiti,20.0,Everton,eng Premier League,"FW,MF",Finisher,45,0,0,0,0.1,0.0,1,0.0
+Fabio Chiarodia,19.0,Gladbach,de Bundesliga,DF,Finisher,379,1,0,1,0.3,0.4,10,0.1875
+Carney Chukwuemeka,20.0,Dortmund,de Bundesliga,MF,Finisher,253,1,0,1,0.6,0.9,18,0.1
+Aaron Ciammaglichella,19.0,Torino,it Serie A,MF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Alessandro Circati,20.0,Parma,it Serie A,DF,Finisher,540,0,0,0,0.3,0.0,10,1.0
+Alphadjo Cissè,17.0,Hellas Verona,it Serie A,"FW,MF",Finisher,9,0,0,0,0.0,0.0,1,0.0
+Djaoui Cissé,20.0,Rennes,fr Ligue 1,MF,Playmaker,1121,1,0,1,0.4,0.2,84,1.0
+Yoann Cissé,19.0,Auxerre,fr Ligue 1,MF,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Silvi Clúa,19.0,Girona,es La Liga,MF,Finisher,163,0,0,0,0.0,0.0,3,0.5
+Nnamdi Collins,20.0,Eint Frankfurt,de Bundesliga,DF,Playmaker,1489,1,1,2,0.8,1.0,63,0.625
+Toby Collyer,20.0,Manchester Utd,eng Premier League,MF,Finisher,179,0,0,0,0.2,0.3,5,0.0
+Levi Colwill,21.0,Chelsea,eng Premier League,DF,Playmaker,3149,2,1,3,1.9,1.1,131,1.0
+Pietro Comuzzo,19.0,Fiorentina,it Serie A,DF,Playmaker,2200,1,0,1,0.5,0.6,75,0.7272727272727273
+Francisco Conceição,21.0,Juventus,it Serie A,"FW,MF",Playmaker,1340,3,3,6,2.3,4.3,35,0.46153846153846156
+Diego Coppola,20.0,Hellas Verona,it Serie A,DF,Playmaker,2927,2,0,2,0.7,0.1,48,0.9705882352941176
+Iker Córdoba,18.0,Valencia,es La Liga,DF,Finisher,15,0,0,0,0.0,0.1,1,0.0
+Alberto costa,20.0,Juventus,it Serie A,DF,Finisher,357,0,1,1,0.6,0.2,8,0.3333333333333333
+Lasso Coulibaly,21.0,Auxerre,fr Ligue 1,"FW,MF",Finisher,45,1,0,1,0.3,0.1,0,0.0
+Mamadou Coulibaly,20.0,Monaco,fr Ligue 1,MF,Finisher,8,0,0,0,0.1,0.0,0,0.0
+Soumaïla Coulibaly,20.0,Brest,fr Ligue 1,DF,Finisher,438,0,0,0,0.2,0.1,16,0.7142857142857143
+Marius Courcoul,17.0,Angers,fr Ligue 1,"MF,DF",Finisher,309,0,0,0,0.1,0.0,7,0.375
+Charlie Cresswell,21.0,Toulouse,fr Ligue 1,DF,Playmaker,2592,3,1,4,3.3,1.7,69,0.9354838709677419
+Pau Cubarsí,17.0,Barcelona,es La Liga,DF,Playmaker,2618,0,3,3,0.8,1.6,191,0.8285714285714286
+Maat Daniel Caprini,18.0,Fiorentina,it Serie A,FW,Finisher,8,0,0,0,0.0,0.0,1,0.0
+Jayden Danns,18.0,Liverpool,eng Premier League,MF,Finisher,11,0,0,0,0.0,0.0,0,0.0
+Kévin Danois,20.0,Auxerre,fr Ligue 1,MF,Playmaker,1460,0,0,0,1.5,2.2,95,0.7272727272727273
+Bence Dárdai,18.0,Wolfsburg,de Bundesliga,MF,Finisher,1304,1,1,2,1.0,1.0,39,0.7619047619047619
+Amar Dedić,21.0,Marseille,fr Ligue 1,DF,Finisher,314,0,1,1,0.9,0.9,16,0.2
+Liam Delap,21.0,Ipswich Town,eng Premier League,FW,Defender,2593,12,2,14,9.3,1.9,30,0.8648648648648649
+Ali Dembélé,20.0,Torino,it Serie A,DF,Finisher,388,1,0,1,0.4,0.1,12,0.26666666666666666
+Justin Devenny,20.0,Crystal Palace,eng Premier League,MF,Finisher,507,1,1,2,0.8,0.6,21,0.17391304347826086
+Mamadou Diakhon,18.0,Reims,fr Ligue 1,"FW,MF",Finisher,858,2,1,3,1.0,1.1,17,0.17857142857142858
+Oumar Diakité,20.0,Reims,fr Ligue 1,FW,Playmaker,1628,4,1,5,5.5,1.1,44,0.7692307692307693
+Assane Diao,18.0,Como,it Serie A,"FW,MF",Defender,1252,8,1,9,4.0,0.4,36,0.9333333333333333
+Assane Diao,18.0,Betis,es La Liga,FW,Finisher,277,1,2,3,0.8,1.5,1,0.2
+Habib Diarra,20.0,Strasbourg,fr Ligue 1,"MF,FW",Playmaker,2352,4,5,9,3.3,4.5,116,0.9
+Mahamadou Diawara,19.0,Le Havre,fr Ligue 1,MF,Finisher,582,0,1,1,0.4,0.4,16,0.4
+Mahamadou Diawara,19.0,Lyon,fr Ligue 1,MF,Finisher,16,0,0,0,0.0,0.0,1,0.0
+Daniel Díaz,18.0,Real Sociedad,es La Liga,MF,Finisher,10,0,0,0,0.0,0.0,0,0.0
+Tyler Dibling,18.0,Southampton,eng Premier League,"FW,MF",Playmaker,1874,2,0,2,2.5,1.5,64,0.6060606060606061
+Justin Diehl,19.0,Stuttgart,de Bundesliga,"FW,DF",Finisher,104,1,0,1,1.0,0.1,5,0.0
+Kembo Diliwidi,18.0,Lens,fr Ligue 1,DF,Finisher,4,0,0,0,0.0,0.0,1,0.0
+Yan Diomandé,17.0,Leganés,es La Liga,"MF,FW",Finisher,545,2,1,3,1.4,0.9,16,0.6
+Sérigné Diop,19.0,Brest,fr Ligue 1,FW,Finisher,4,0,0,0,0.0,0.0,0,0.0
+Andy Diouf,21.0,Lens,fr Ligue 1,MF,Playmaker,2225,1,2,3,2.9,2.8,116,0.7941176470588235
+Roman Dixon,19.0,Everton,eng Premier League,DF,Finisher,90,0,0,0,0.0,0.0,0,1.0
+Nasser Djiga,21.0,Wolves,eng Premier League,DF,Finisher,66,0,0,0,0.0,0.0,3,0.2
+Marc Domenech,18.0,Mallorca,es La Liga,"FW,MF",Finisher,303,0,0,0,0.7,0.2,4,0.3
+Benjamín Domínguez,20.0,Bologna,it Serie A,FW,Playmaker,1281,3,2,5,2.2,0.8,32,0.6666666666666666
+Israel Domínguez,21.0,Sevilla,es La Liga,FW,Finisher,18,0,0,0,0.0,0.0,0,0.0
+Sergi Dominguez,19.0,Barcelona,es La Liga,DF,Finisher,172,0,0,0,0.0,0.0,13,0.6666666666666666
+Patrick Dorgu,19.0,Manchester Utd,eng Premier League,DF,Finisher,842,0,0,0,0.4,0.7,34,0.8333333333333334
+Patrick Dorgu,19.0,Lecce,it Serie A,"DF,FW",Playmaker,1840,3,1,4,3.3,1.5,54,1.0
+Alfie Dorrington,19.0,Tottenham,eng Premier League,DF,Finisher,14,0,0,0,0.0,0.0,0,0.0
+Sékou Doucoure,19.0,Nantes,fr Ligue 1,DF,Finisher,12,0,0,0,0.0,0.0,0,0.0
+Désiré Doué,19.0,Paris S-G,fr Ligue 1,"FW,MF",Defender,1730,6,6,12,5.1,7.8,139,0.5806451612903226
+Guela Doué,21.0,Strasbourg,fr Ligue 1,DF,Playmaker,2717,1,2,3,0.8,0.7,173,0.9375
+Ismaël Doukouré,21.0,Strasbourg,fr Ligue 1,"DF,MF",Playmaker,2639,1,1,2,0.6,1.1,116,1.0
+Issa Doumbia,20.0,Venezia,it Serie A,MF,Finisher,939,0,0,0,1.0,0.1,22,0.4166666666666667
+Kamory Doumbia,21.0,Brest,fr Ligue 1,"MF,FW",Playmaker,1322,3,2,5,2.7,1.2,72,0.43333333333333335
+Amidou Doumbouya,16.0,Nice,fr Ligue 1,DF,Finisher,46,0,0,0,0.0,0.0,1,0.0
+Tim Drexler,19.0,Hoffenheim,de Bundesliga,DF,Finisher,357,0,0,0,0.1,0.0,16,0.625
+Jáder Durán,20.0,Aston Villa,eng Premier League,FW,Playmaker,638,7,0,7,4.9,0.2,13,0.2
+Julien Duranville,18.0,Dortmund,de Bundesliga,"FW,MF",Finisher,283,0,0,0,0.2,0.3,7,0.16666666666666666
+Stefan Džodić,19.0,Montpellier,fr Ligue 1,"DF,MF",Finisher,242,0,0,0,0.1,0.0,10,0.2857142857142857
+Claudio Echeverri,18.0,Manchester City,eng Premier League,FW,Finisher,6,0,0,0,0.0,0.0,1,0.0
+Noah Edjouma,18.0,Toulouse,fr Ligue 1,"MF,FW",Finisher,171,2,0,2,1.3,0.1,7,0.1
+Samuel Edozie,21.0,Southampton,eng Premier League,"DF,FW",Finisher,65,0,0,0,0.0,0.1,4,0.0
+Ronnie Edwards,21.0,Southampton,eng Premier League,DF,Finisher,12,0,0,0,0.0,0.0,0,0.0
+Jeff Ekhator,17.0,Genoa,it Serie A,"FW,MF",Finisher,769,1,1,2,1.3,1.0,14,0.25
+Jacques Ekomie,20.0,Angers,fr Ligue 1,"DF,FW",Finisher,697,0,0,0,0.0,0.0,20,0.3888888888888889
+Harvey Elliott,21.0,Liverpool,eng Premier League,MF,Finisher,371,1,2,3,1.8,1.1,44,0.1111111111111111
+Emanuel Emegha,21.0,Strasbourg,fr Ligue 1,FW,Defender,2293,14,3,17,17.0,2.4,14,1.0
+Yunus Emre Konak,18.0,Brentford,eng Premier League,"FW,MF",Finisher,42,0,0,0,0.2,0.0,2,0.0
+Julio Enciso,20.0,Ipswich Town,eng Premier League,"MF,FW",Playmaker,869,2,3,5,1.7,1.4,28,0.9230769230769231
+Julio Enciso,20.0,Brighton,eng Premier League,"MF,FW",Finisher,294,0,0,0,1.0,0.2,14,0.16666666666666666
+Endrick,18.0,Real Madrid,es La Liga,FW,Finisher,363,1,0,1,2.5,0.5,8,0.13636363636363635
+Arne Engels,20.0,Augsburg,de Bundesliga,"MF,FW",Finisher,79,0,0,0,0.4,0.0,1,1.0
+Romain Esse,19.0,Crystal Palace,eng Premier League,MF,Finisher,138,1,1,2,0.3,0.4,7,0.14285714285714285
+Dario Essugo,19.0,Las Palmas,es La Liga,MF,Playmaker,1938,1,0,1,0.7,0.4,76,0.9259259259259259
+Estanis,20.0,Bologna,it Serie A,FW,Finisher,9,0,0,0,0.1,0.2,0,0.0
+Etienne Eto'o,21.0,Rayo Vallecano,es La Liga,FW,Finisher,40,0,0,0,0.0,0.0,0,0.0
+Karl Etta,20.0,Villarreal,es La Liga,"MF,FW",Finisher,37,1,0,1,0.4,0.0,0,0.0
+Giovanni Fabbian,21.0,Bologna,it Serie A,MF,Playmaker,1023,3,1,4,2.3,1.3,17,0.3
+Abdul Fatawu Issahaku,20.0,Leicester City,eng Premier League,FW,Finisher,579,0,2,2,0.4,1.6,17,0.5454545454545454
+Ansu Fati,21.0,Barcelona,es La Liga,FW,Finisher,233,0,0,0,1.0,0.2,6,0.5
+Khalil Fayad,20.0,Montpellier,fr Ligue 1,"MF,FW",Playmaker,1028,0,0,0,1.3,0.3,50,0.5
+Jacopo Fazzini,21.0,Empoli,it Serie A,MF,Playmaker,1383,4,1,5,3.1,0.5,49,0.8
+Frank Feller,20.0,Heidenheim,de Bundesliga,GK,Finisher,121,0,0,0,0.0,0.0,0,0.5
+Evan Ferguson,19.0,West Ham,eng Premier League,FW,Finisher,156,0,0,0,0.6,0.3,1,0.125
+Evan Ferguson,19.0,Brighton,eng Premier League,FW,Finisher,246,1,0,1,0.5,0.4,1,0.15384615384615385
+Mateus Fernandes,20.0,Southampton,eng Premier League,MF,Playmaker,2909,2,4,6,4.0,3.0,145,0.9444444444444444
+Pelayo Fernandez,21.0,Rayo Vallecano,es La Liga,DF,Finisher,98,0,0,0,0.0,0.0,1,0.5
+Matias Fernandez-Pardo,19.0,Lille,fr Ligue 1,"FW,MF",Playmaker,1065,4,2,6,2.9,2.8,26,0.5454545454545454
+Daniel Fila,21.0,Venezia,it Serie A,FW,Finisher,492,2,0,2,1.4,0.3,8,0.6
+Mateo Flores,20.0,Betis,es La Liga,MF,Finisher,153,0,0,0,0.0,0.0,9,0.16666666666666666
+Malick Fofana,19.0,Lyon,fr Ligue 1,FW,Defender,1589,5,4,9,3.8,3.7,45,0.5517241379310345
+Rayan Fofana,18.0,Lens,fr Ligue 1,"FW,MF",Finisher,25,0,0,0,0.0,0.0,0,0.0
+Carlos Forbs,20.0,Wolves,eng Premier League,"MF,FW",Finisher,239,0,0,0,0.1,0.0,8,0.1
+Omari Forson,20.0,Monza,it Serie A,"MF,FW",Finisher,223,0,0,0,0.2,0.5,10,0.1111111111111111
+Héctor Fort,17.0,Barcelona,es La Liga,DF,Finisher,585,0,0,0,0.2,0.9,26,0.29411764705882354
+Fran,19.0,Real Madrid,es La Liga,GK,Finisher,90,0,0,0,0.0,0.0,0,1.0
+Matheus França,20.0,Crystal Palace,eng Premier League,"MF,FW",Finisher,55,1,0,1,0.3,0.0,3,0.0
+Alejandro Francés,21.0,Girona,es La Liga,DF,Finisher,1173,0,0,0,0.2,0.3,63,0.7222222222222222
+Tyler Fredricson,19.0,Manchester Utd,eng Premier League,DF,Finisher,165,0,0,0,0.0,0.0,8,1.0
+Darío Fuentes,21.0,Sevilla,es La Liga,DF,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Shiō Fukuda,20.0,Gladbach,de Bundesliga,FW,Finisher,60,1,0,1,0.4,0.0,1,0.0
+Tommaso Gabellini,17.0,Torino,it Serie A,FW,Finisher,10,0,0,0,0.1,0.0,0,0.0
+Tiago Gabriel,19.0,Lecce,it Serie A,DF,Finisher,96,0,0,0,0.0,0.0,1,0.0
+Andrés García,21.0,Aston Villa,eng Premier League,"DF,MF",Finisher,318,0,0,0,0.0,0.2,15,0.7142857142857143
+Gonzalo García,20.0,Real Madrid,es La Liga,"FW,DF",Finisher,56,0,1,1,0.5,1.0,0,0.0
+Pablo Garcia,17.0,Betis,es La Liga,FW,Finisher,38,0,0,0,0.0,0.0,0,0.0
+Alejandro Garnacho,20.0,Manchester Utd,eng Premier League,"MF,FW",Defender,2199,6,2,8,7.3,4.5,56,0.6388888888888888
+Yarek Gasiorowski,19.0,Valencia,es La Liga,DF,Finisher,947,0,0,0,1.1,0.1,38,0.6
+Gavi,19.0,Barcelona,es La Liga,"MF,FW",Playmaker,1085,1,1,2,0.9,1.6,77,0.5384615384615384
+Viggo Gebel,16.0,RB Leipzig,de Bundesliga,MF,Finisher,14,0,0,0,0.0,0.0,0,0.0
+Tyrique George,18.0,Chelsea,eng Premier League,FW,Finisher,183,1,1,2,0.2,0.7,3,0.125
+Daniele Ghilardi,21.0,Hellas Verona,it Serie A,DF,Playmaker,2029,0,0,0,0.6,0.2,57,0.875
+Gvidas Gineitis,20.0,Torino,it Serie A,MF,Playmaker,1430,3,1,4,1.3,2.0,36,0.5
+Jamie Gittens,19.0,Dortmund,de Bundesliga,"FW,MF",Defender,1776,8,3,11,3.6,2.5,42,0.65625
+Martial Godo,21.0,Fulham,eng Premier League,"FW,DF",Finisher,24,0,0,0,0.0,0.1,3,0.0
+Saba Goglichidze,20.0,Empoli,it Serie A,DF,Playmaker,2539,0,1,1,0.3,0.3,45,0.8787878787878788
+Michael Golding,18.0,Leicester City,eng Premier League,MF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Rodrigo Gomes,21.0,Wolves,eng Premier League,"DF,FW",Finisher,810,2,0,2,0.7,0.9,27,0.28
+Carlos Gómez,21.0,Rennes,fr Ligue 1,"MF,DF",Finisher,381,3,0,3,1.3,0.2,9,0.11764705882352941
+Diego Gómez,21.0,Brighton,eng Premier League,MF,Finisher,516,1,0,1,0.9,0.7,27,0.25
+Unai Gómez,21.0,Athletic Club,es La Liga,"MF,FW",Playmaker,1284,1,3,4,1.9,0.8,23,0.4375
+Tidiam Gomis,17.0,RB Leipzig,de Bundesliga,"MF,FW",Finisher,152,0,1,1,0.3,0.9,3,0.125
+Lucas Gourna-Douath,20.0,Roma,it Serie A,MF,Finisher,229,0,0,0,0.1,0.1,9,0.3333333333333333
+Archie Gray,18.0,Tottenham,eng Premier League,"DF,MF",Finisher,1751,0,0,0,0.0,0.1,40,0.6785714285714286
+Brajan Gruda,20.0,Brighton,eng Premier League,"MF,FW",Finisher,687,1,4,5,1.2,2.1,26,0.38095238095238093
+Axel Gueguin,19.0,Montpellier,fr Ligue 1,FW,Finisher,23,0,0,0,0.0,0.0,1,0.0
+Javier Guerra,21.0,Valencia,es La Liga,MF,Playmaker,2581,3,3,6,2.2,3.2,137,0.8611111111111112
+Luis Guilherme,18.0,West Ham,eng Premier League,"MF,FW",Finisher,150,0,0,0,0.4,0.1,5,0.08333333333333333
+Carlos Guirao,21.0,Betis,es La Liga,MF,Finisher,110,0,0,0,0.0,0.0,2,1.0
+Bahereba Guirassy,17.0,Nantes,fr Ligue 1,"FW,MF",Finisher,348,2,0,2,0.7,0.1,6,0.10526315789473684
+Marc Guiu,18.0,Chelsea,eng Premier League,FW,Finisher,73,0,0,0,0.0,0.0,0,0.0
+Arda Güler,19.0,Real Madrid,es La Liga,"MF,FW",Playmaker,1250,3,4,7,3.3,4.5,93,0.5
+Malo Gusto,21.0,Chelsea,eng Premier League,DF,Playmaker,1862,0,1,1,1.7,1.4,119,0.59375
+Saad El Haddad,19.0,Venezia,it Serie A,MF,Finisher,30,0,0,0,0.0,0.0,1,0.0
+Mohamed Haj,19.0,Parma,it Serie A,MF,Finisher,453,1,2,3,0.6,1.2,13,0.2
+Lewis Hall,19.0,Newcastle Utd,eng Premier League,DF,Playmaker,2189,0,4,4,0.4,4.3,123,0.8888888888888888
+Ayden Heaven,17.0,Manchester Utd,eng Premier League,DF,Finisher,170,0,0,0,0.1,0.0,7,0.5
+Paul Hennrich,19.0,Hoffenheim,de Bundesliga,MF,Finisher,12,0,0,0,0.0,0.0,0,0.0
+Juan Herzog,21.0,Las Palmas,es La Liga,DF,Finisher,1315,0,0,0,0.9,0.0,27,0.7894736842105263
+Omar El Hilali,20.0,Espanyol,es La Liga,DF,Playmaker,3153,0,2,2,0.0,0.8,84,1.0
+Roger Hinojo,19.0,Espanyol,es La Liga,DF,Finisher,9,0,0,0,0.0,0.0,0,0.0
+Jack Hinshelwood,19.0,Brighton,eng Premier League,"MF,DF",Playmaker,1842,5,2,7,2.7,1.5,68,0.8461538461538461
+Ilyes Housni,19.0,Le Havre,fr Ligue 1,"FW,MF",Finisher,230,0,0,0,0.2,0.2,4,0.25
+Harry Howell,15.0,Brighton,eng Premier League,FW,Finisher,7,0,0,0,0.0,0.0,0,0.0
+Dean Huijsen,19.0,Bournemouth,eng Premier League,DF,Playmaker,2427,3,2,5,1.9,2.0,132,0.8125
+Omari Hutchinson,20.0,Ipswich Town,eng Premier League,"MF,FW",Playmaker,2583,3,2,5,2.9,3.5,75,0.967741935483871
+Oscar Højlund,19.0,Eint Frankfurt,de Bundesliga,MF,Finisher,722,1,0,1,1.0,1.1,49,0.35
+Rasmus Højlund,21.0,Manchester Utd,eng Premier League,FW,Playmaker,2004,4,0,4,5.3,1.8,18,0.71875
+Hafiz Ibrahim,18.0,Reims,fr Ligue 1,FW,Finisher,391,0,1,1,0.5,0.6,2,0.18181818181818182
+Arijon Ibrahimović,18.0,Lazio,it Serie A,MF,Finisher,8,0,0,0,0.1,0.0,0,0.0
+Arijon Ibrahimović,18.0,Bayern Munich,de Bundesliga,FW,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Stanis Idumbo,19.0,Sevilla,es La Liga,"FW,MF",Finisher,284,1,1,2,0.6,0.7,8,0.21428571428571427
+George Ilenikhena,17.0,Monaco,fr Ligue 1,FW,Playmaker,717,3,2,5,5.1,1.4,10,0.2608695652173913
+Rareş Ilie,21.0,Nice,fr Ligue 1,MF,Finisher,13,0,0,0,0.0,0.4,3,0.0
+Samuel Iling-Junior,20.0,Bologna,it Serie A,"FW,MF",Finisher,118,1,0,1,0.1,0.1,7,0.0
+Tim Iroegbunam,21.0,Everton,eng Premier League,MF,Finisher,574,0,1,1,0.2,0.2,15,0.2777777777777778
+Yanis Issoufou,17.0,Montpellier,fr Ligue 1,"MF,FW",Finisher,77,0,0,0,0.1,0.0,2,0.25
+Diego Iturralde,21.0,Sevilla,es La Liga,FW,Finisher,37,0,0,0,0.1,0.0,0,1.0
+Fellipe Jack,18.0,Como,it Serie A,DF,Finisher,171,0,0,0,0.0,0.1,8,0.14285714285714285
+Jérémy Jacquet,19.0,Rennes,fr Ligue 1,DF,Finisher,927,0,1,1,0.8,0.8,40,1.0
+Jordan James,20.0,Rennes,fr Ligue 1,MF,Playmaker,1178,0,1,1,0.9,1.9,67,0.6086956521739131
+Luca Jaquez,21.0,Stuttgart,de Bundesliga,DF,Finisher,253,0,0,0,0.2,0.0,18,0.4
+Ali Jasim,20.0,Como,it Serie A,"FW,DF",Finisher,10,0,0,0,0.0,0.0,1,0.0
+Mikel Jauregizar,20.0,Athletic Club,es La Liga,MF,Playmaker,2244,2,1,3,1.1,1.4,118,0.7352941176470589
+Dominik Javorček,21.0,Holstein Kiel,de Bundesliga,"DF,MF",Finisher,386,0,2,2,0.0,1.0,4,0.3076923076923077
+Daniel Jebbison,20.0,Bournemouth,eng Premier League,FW,Finisher,119,1,0,1,1.0,0.2,3,0.0
+Finn Jeltsch,18.0,Stuttgart,de Bundesliga,DF,Finisher,780,0,0,0,0.1,0.1,31,0.75
+Malcolm Jeng,19.0,Reims,fr Ligue 1,DF,Finisher,107,0,0,0,0.0,0.0,3,0.6666666666666666
+Alejandro Jiménez,19.0,Milan,it Serie A,"DF,FW",Playmaker,1266,0,1,1,0.8,1.3,37,0.6363636363636364
+Kim Jisoo,19.0,Brentford,eng Premier League,DF,Finisher,30,0,0,0,0.0,0.0,2,0.0
+John Joe,20.0,Getafe,es La Liga,"MF,FW",Finisher,48,0,0,0,0.1,0.0,0,0.0
+John Joe,20.0,Reims,fr Ligue 1,MF,Finisher,545,0,0,0,0.2,0.0,14,0.38461538461538464
+Antoine Joujou,21.0,Le Havre,fr Ligue 1,"MF,FW",Finisher,943,0,2,2,0.6,3.0,18,0.34615384615384615
+Yusuf Kabadayı,20.0,Augsburg,de Bundesliga,"FW,MF",Finisher,71,1,0,1,0.6,0.0,3,0.0
+Almugera Kabar,18.0,Dortmund,de Bundesliga,DF,Finisher,137,0,0,0,0.0,0.5,6,0.2
+Yaya Kader Fofana,20.0,Reims,fr Ligue 1,"MF,FW",Playmaker,634,1,1,2,0.6,1.7,22,0.6666666666666666
+Justin-Noël Kalumba,19.0,Angers,fr Ligue 1,"FW,MF",Finisher,31,0,0,0,0.0,0.0,0,0.0
+Noham Kamara,17.0,Paris S-G,fr Ligue 1,DF,Finisher,76,0,0,0,0.0,0.0,5,0.0
+Willy Kambwala,19.0,Villarreal,es La Liga,DF,Finisher,1117,0,0,0,0.3,0.1,16,0.631578947368421
+Lior Kasa,18.0,Genoa,it Serie A,"MF,FW",Finisher,230,0,0,0,1.1,0.1,7,0.25
+Joachim Kayi Sanda,17.0,Southampton,eng Premier League,DF,Finisher,14,0,0,0,0.0,0.0,1,0.0
+Michael Kayode,20.0,Brentford,eng Premier League,DF,Finisher,528,0,1,1,0.2,1.2,12,0.5
+Michael Kayode,20.0,Fiorentina,it Serie A,"DF,FW",Finisher,127,0,0,0,0.1,0.2,8,0.2
+Abdoulaye Keita,21.0,Getafe,es La Liga,"FW,MF",Finisher,95,0,0,0,0.0,0.0,2,0.3333333333333333
+Andu Kelati,21.0,Holstein Kiel,de Bundesliga,"MF,DF",Finisher,288,1,1,2,0.9,0.8,19,0.25
+Aljoscha Kemlein,19.0,Union Berlin,de Bundesliga,MF,Finisher,922,1,0,1,0.9,0.6,42,0.7333333333333333
+Milos Kerkez,20.0,Bournemouth,eng Premier League,DF,Playmaker,3336,2,5,7,0.6,3.9,159,1.0
+Bilal El Khannouss,20.0,Leicester City,eng Premier League,"MF,FW",Playmaker,2182,2,3,5,1.3,4.6,128,0.84375
+Abdukodir Khusanov,20.0,Manchester City,eng Premier League,DF,Finisher,503,0,0,0,0.0,0.1,25,1.0
+Abdukodir Khusanov,20.0,Lens,fr Ligue 1,DF,Finisher,975,0,0,0,0.2,0.3,43,0.8461538461538461
+Joshua King,17.0,Fulham,eng Premier League,MF,Finisher,130,0,0,0,0.3,0.4,9,0.125
+Antonín Kinský,21.0,Tottenham,eng Premier League,GK,Finisher,540,0,0,0,0.0,0.1,1,1.0
+Mert Kömür,19.0,Augsburg,de Bundesliga,MF,Finisher,654,2,1,3,1.1,1.5,11,0.25
+Ismael Konate,18.0,Empoli,it Serie A,"FW,MF",Finisher,116,0,1,1,0.2,0.0,2,0.0
+Abdoul Koné,19.0,Reims,fr Ligue 1,DF,Finisher,133,0,0,0,0.0,0.0,3,0.25
+Amadou Koné,19.0,Reims,fr Ligue 1,MF,Playmaker,1293,0,0,0,0.5,0.3,68,0.7083333333333334
+Kacper Koscierski,17.0,Bochum,de Bundesliga,DF,Finisher,7,0,0,0,0.0,0.0,0,0.0
+Konstantinos Koulierakis,20.0,Wolfsburg,de Bundesliga,DF,Playmaker,2468,0,2,2,1.0,1.0,104,0.9333333333333333
+Emmanuel Koum Mbondo,18.0,Marseille,fr Ligue 1,DF,Finisher,12,0,0,0,0.0,0.0,0,0.0
+Mateusz Kowalski,19.0,Parma,it Serie A,MF,Finisher,56,0,0,0,0.4,0.0,0,1.0
+Caleb Kporha,18.0,Crystal Palace,eng Premier League,DF,Finisher,13,0,0,0,0.0,0.0,0,0.0
+Frans Krätzig,21.0,Heidenheim,de Bundesliga,"DF,MF",Playmaker,1217,1,2,3,0.6,1.8,37,0.9375
+Frans Krätzig,21.0,Stuttgart,de Bundesliga,DF,Finisher,56,0,0,0,0.0,0.0,2,1.0
+Sael Kumbedi,19.0,Lyon,fr Ligue 1,DF,Finisher,951,0,0,0,0.3,0.3,37,0.8571428571428571
+Jonah Kusi-Asare,17.0,Bayern Munich,de Bundesliga,FW,Finisher,3,0,0,0,0.0,0.0,0,0.0
+Rémy Labeau Lascary,21.0,Lens,fr Ligue 1,"FW,MF",Playmaker,637,2,1,3,2.5,1.1,7,0.42857142857142855
+Younes Lachaab,19.0,Lille,fr Ligue 1,"MF,FW",Finisher,9,0,0,0,0.1,0.0,0,0.0
+Yoel Lago,20.0,Celta Vigo,es La Liga,DF,Finisher,583,0,1,1,0.0,0.1,31,0.875
+Mathis Lambourde,18.0,Hellas Verona,it Serie A,"FW,MF",Finisher,89,1,0,1,0.2,0.1,0,0.0
+Will Lankshear,19.0,Tottenham,eng Premier League,"FW,MF",Finisher,11,0,0,0,0.0,0.0,0,0.0
+Hugo Larsson,20.0,Eint Frankfurt,de Bundesliga,MF,Playmaker,2393,3,1,4,3.1,2.1,121,0.8484848484848485
+Roméo Lavia,20.0,Chelsea,eng Premier League,MF,Finisher,797,0,1,1,0.3,0.7,31,0.6875
+Stefan Lekovic,20.0,Monza,it Serie A,DF,Finisher,367,0,0,0,0.1,0.0,15,0.42857142857142855
+Félix Lemaréchal,20.0,Strasbourg,fr Ligue 1,"MF,FW",Playmaker,1779,4,3,7,3.5,2.9,58,0.7407407407407407
+Giovanni Leoni,17.0,Parma,it Serie A,DF,Finisher,1199,1,0,1,0.1,0.0,21,0.8235294117647058
+Johann Lepenant,21.0,Nantes,fr Ligue 1,MF,Playmaker,2048,2,1,3,1.4,0.9,89,0.7931034482758621
+Louis Leroux,18.0,Nantes,fr Ligue 1,"MF,DF",Finisher,816,2,1,3,1.5,1.3,31,0.5
+Rico Lewis,19.0,Manchester City,eng Premier League,"DF,MF",Playmaker,1893,1,2,3,1.4,0.3,107,0.75
+Myles Lewis-Skelly,17.0,Arsenal,eng Premier League,DF,Playmaker,1369,1,0,1,0.2,0.4,71,0.6521739130434783
+Mattia Liberali,17.0,Milan,it Serie A,MF,Finisher,61,0,0,0,0.1,0.0,5,1.0
+Pedro Lima,18.0,Wolves,eng Premier League,DF,Finisher,70,0,0,0,0.1,0.1,4,0.3333333333333333
+Valentino Livramento,21.0,Newcastle Utd,eng Premier League,DF,Playmaker,2840,0,1,1,0.3,2.6,158,0.8648648648648649
+Javier Llabrés,21.0,Mallorca,es La Liga,FW,Finisher,57,0,0,0,0.0,0.1,3,1.0
+Elysée Logbo,20.0,Le Havre,fr Ligue 1,FW,Finisher,27,0,0,0,0.2,0.0,0,0.0
+David López,21.0,Mallorca,es La Liga,DF,Finisher,169,0,0,0,0.0,0.0,4,1.0
+Fermin López,21.0,Barcelona,es La Liga,"MF,FW",Defender,1252,6,5,11,5.6,3.9,79,0.42857142857142855
+Tom Louchet,21.0,Nice,fr Ligue 1,"DF,MF",Finisher,775,1,0,1,0.8,1.2,36,0.3181818181818182
+Yannik Lührs,20.0,Dortmund,de Bundesliga,DF,Finisher,127,0,0,0,0.0,0.0,1,0.3333333333333333
+Castello Lukeba,21.0,RB Leipzig,de Bundesliga,DF,Playmaker,1577,0,0,0,0.4,0.2,80,0.782608695652174
+Milos Lukovic,18.0,Strasbourg,fr Ligue 1,"FW,MF",Finisher,12,0,0,0,0.0,0.0,0,0.0
+Daniel Luna,21.0,Mallorca,es La Liga,MF,Finisher,20,0,0,0,0.0,0.0,0,0.0
+Mathias Løvik,20.0,Parma,it Serie A,"DF,FW",Finisher,92,0,0,0,0.1,0.1,1,0.0
+Othmane Maamma,18.0,Montpellier,fr Ligue 1,"FW,MF",Finisher,361,1,1,2,0.7,0.2,2,0.16666666666666666
+Lanroy Machine,18.0,Angers,fr Ligue 1,FW,Finisher,8,0,0,0,0.1,0.0,0,0.0
+Soungoutou Magassa,20.0,Monaco,fr Ligue 1,MF,Playmaker,1025,0,1,1,0.5,0.9,63,0.5714285714285714
+Kobbie Mainoo,19.0,Manchester Utd,eng Premier League,MF,Playmaker,1651,0,0,0,0.7,1.6,65,0.76
+Hamidou Makalou,18.0,Brest,fr Ligue 1,"FW,MF",Finisher,32,0,0,0,0.0,0.0,2,0.0
+Jarzinho Malanga,18.0,Stuttgart,de Bundesliga,DF,Finisher,2,0,0,0,0.0,0.0,0,0.0
+Aaron Malouda,18.0,Lille,fr Ligue 1,FW,Finisher,2,0,0,0,0.0,0.0,0,0.0
+Johan Manzambi,18.0,Freiburg,de Bundesliga,"FW,MF",Finisher,335,2,1,3,1.3,0.4,10,0.36363636363636365
+Alberto Manzoni,19.0,Atalanta,it Serie A,MF,Finisher,6,0,0,0,0.1,0.0,0,0.0
+Alessandro Marcandalli,21.0,Genoa,it Serie A,DF,Finisher,46,0,0,0,0.0,0.0,1,0.5
+Alessandro Marcandalli,21.0,Venezia,it Serie A,DF,Finisher,354,0,0,0,0.3,0.0,10,0.625
+Luca Marianucci,20.0,Empoli,it Serie A,DF,Finisher,1069,0,0,0,0.6,0.2,28,0.6666666666666666
+Arkaitz Mariezkurrena,19.0,Real Sociedad,es La Liga,"FW,MF",Finisher,241,2,0,2,1.0,0.1,4,0.1111111111111111
+Pablo Marín,21.0,Real Sociedad,es La Liga,MF,Playmaker,1239,1,2,3,1.4,1.0,45,0.6086956521739131
+Mario Maroto,20.0,Valladolid,es La Liga,MF,Finisher,64,0,1,1,0.0,0.1,2,0.0
+Ange Martial Tia,17.0,Reims,fr Ligue 1,"MF,DF",Finisher,171,0,0,0,1.3,0.0,8,0.3333333333333333
+Diego Martín,20.0,Las Palmas,es La Liga,FW,Finisher,40,0,0,0,0.0,0.0,2,0.0
+Jon Martin,18.0,Real Sociedad,es La Liga,DF,Finisher,904,0,1,1,0.6,0.2,34,0.46153846153846156
+Mario Martín,20.0,Valladolid,es La Liga,MF,Playmaker,1748,0,1,1,1.8,1.4,66,0.6666666666666666
+Arnau Martinez,21.0,Girona,es La Liga,"DF,MF",Playmaker,2624,2,2,4,1.2,2.2,162,0.9375
+Ramón Martínez,21.0,Sevilla,es La Liga,DF,Finisher,261,1,0,1,0.3,0.1,5,0.4
+Kevin Martins,19.0,Monza,it Serie A,"MF,DF",Finisher,183,0,1,1,0.0,0.4,6,0.1111111111111111
+Igor Matanovic,21.0,Eint Frankfurt,de Bundesliga,FW,Finisher,312,1,0,1,1.1,0.0,6,0.125
+Pape Matar Sarr,21.0,Tottenham,eng Premier League,MF,Playmaker,1913,3,2,5,3.7,1.6,88,0.6111111111111112
+Rudy Matondo,16.0,Auxerre,fr Ligue 1,MF,Finisher,66,0,0,0,0.0,0.0,2,0.0
+Jean Mattéo Bahoya,19.0,Eint Frankfurt,de Bundesliga,"MF,FW",Playmaker,921,2,3,5,1.9,1.7,28,0.4166666666666667
+Alan Matturro,19.0,Genoa,it Serie A,DF,Finisher,900,0,0,0,0.2,0.2,15,0.6923076923076923
+Christian Mawissa,19.0,Monaco,fr Ligue 1,DF,Finisher,1501,0,0,0,0.1,0.0,44,0.7727272727272727
+Keke Maximilian Topp,20.0,Werder Bremen,de Bundesliga,"FW,MF",Finisher,252,2,2,4,1.0,2.0,9,0.05263157894736842
+Senny Mayulu,18.0,Paris S-G,fr Ligue 1,MF,Playmaker,808,2,2,4,2.9,2.1,46,0.4
+Andrea Mazza,20.0,Monza,it Serie A,GK,Finisher,8,0,0,0,0.0,0.0,0,0.0
+Samuel Mbangula,20.0,Juventus,it Serie A,FW,Playmaker,709,3,3,6,0.6,1.4,17,0.30434782608695654
+Ethan Mbappé,17.0,Lille,fr Ligue 1,"MF,FW",Finisher,222,0,0,0,1.1,1.5,8,0.1
+Ibrahim Mbaye,16.0,Paris S-G,fr Ligue 1,"FW,MF",Finisher,340,1,1,2,1.8,1.1,9,0.4444444444444444
+James Mcatee,21.0,Manchester City,eng Premier League,"MF,FW",Finisher,349,3,0,3,2.8,0.5,7,0.2
+Jayden Meghoma,18.0,Brentford,eng Premier League,DF,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Henrik Meister,20.0,Rennes,fr Ligue 1,FW,Finisher,63,1,0,1,0.1,0.3,1,0.0
+Mohamed Meité,16.0,Rennes,fr Ligue 1,FW,Finisher,544,2,0,2,2.5,0.6,6,0.4166666666666667
+Mateo Mejía,21.0,Sevilla,es La Liga,FW,Finisher,11,0,0,0,0.0,0.0,0,0.0
+Antoine Mendy,20.0,Nice,fr Ligue 1,DF,Finisher,825,0,0,0,0.6,0.1,35,0.4444444444444444
+Nobel Mendy,19.0,Betis,es La Liga,DF,Finisher,108,0,0,0,0.0,0.0,3,0.5
+Rafik Messali,21.0,Toulouse,fr Ligue 1,DF,Finisher,456,0,1,1,0.3,1.0,21,0.38461538461538464
+Shumaira Mheuka,16.0,Chelsea,eng Premier League,MF,Finisher,1,0,0,0,0.1,0.0,0,0.0
+Lucas Michal,19.0,Monaco,fr Ligue 1,"FW,MF",Finisher,117,0,0,0,0.2,0.9,4,0.0
+Florian Micheler,19.0,Hoffenheim,de Bundesliga,MF,Finisher,32,0,0,0,0.0,0.0,1,0.0
+Igor Miladinović,21.0,Saint-Étienne,fr Ligue 1,"FW,MF",Finisher,26,0,0,0,0.0,0.0,1,0.0
+Lewis Miley,18.0,Newcastle Utd,eng Premier League,MF,Finisher,313,1,0,1,0.5,0.0,17,0.07142857142857142
+Lucas Mincarelli,20.0,Montpellier,fr Ligue 1,DF,Finisher,715,1,0,1,0.6,0.3,25,0.8
+Kim Minsu,18.0,Girona,es La Liga,"MF,FW",Finisher,22,0,0,0,0.0,0.0,0,0.0
+Yankuba Minteh,20.0,Brighton,eng Premier League,"FW,MF",Defender,1838,6,4,10,4.1,5.0,48,0.625
+Fabio Miretti,20.0,Genoa,it Serie A,"MF,FW",Playmaker,1677,3,3,6,3.1,2.0,54,0.88
+David Mokwa,20.0,Hoffenheim,de Bundesliga,"DF,FW",Finisher,22,0,0,0,0.3,0.0,0,0.0
+Alberto Moleiro,20.0,Las Palmas,es La Liga,"FW,MF",Defender,2714,6,1,7,5.6,3.3,116,0.9142857142857143
+Mikey Moore,16.0,Tottenham,eng Premier League,FW,Finisher,366,0,1,1,0.2,0.3,9,0.3
+Diego Moreira,19.0,Strasbourg,fr Ligue 1,"DF,MF",Playmaker,2568,2,7,9,2.0,7.3,87,0.90625
+Matias Moreno,20.0,Fiorentina,it Serie A,DF,Finisher,144,0,0,0,0.0,0.0,6,0.5
+Xavier Moreno,19.0,Valladolid,es La Liga,FW,Finisher,45,0,0,0,0.0,0.0,1,1.0
+Ilaix Moriba,21.0,Celta Vigo,es La Liga,MF,Playmaker,2132,1,1,2,1.7,1.5,119,0.6666666666666666
+Raúl Moro,21.0,Valladolid,es La Liga,"MF,FW",Defender,2341,4,5,9,4.1,5.7,81,0.7878787878787878
+Gabriel Moscardo,18.0,Reims,fr Ligue 1,"MF,DF",Finisher,84,0,0,0,0.2,0.0,3,0.0
+Cristhian Mosquera,20.0,Valencia,es La Liga,DF,Playmaker,3319,1,0,1,0.4,0.0,123,1.0
+Yael Mouanga,19.0,Montpellier,fr Ligue 1,DF,Finisher,946,0,0,0,0.1,0.2,22,0.7142857142857143
+Youssoufa Moukoko,19.0,Nice,fr Ligue 1,"FW,MF",Finisher,204,2,1,3,2.2,0.8,6,0.18181818181818182
+Divin Mubama,19.0,Manchester City,eng Premier League,FW,Finisher,28,0,0,0,0.0,0.0,1,0.0
+Ngal'Ayel Mukau,19.0,Lille,fr Ligue 1,MF,Playmaker,1190,0,1,1,0.8,0.7,57,0.6363636363636364
+Iker Muñoz,21.0,Osasuna,es La Liga,MF,Finisher,610,0,1,1,0.5,1.0,24,0.17391304347826086
+Víctor Muñoz,21.0,Real Madrid,es La Liga,"FW,DF",Finisher,36,0,0,0,0.5,0.0,0,0.0
+Bob Murphy Omoregbe,20.0,Milan,it Serie A,MF,Finisher,3,0,0,0,0.0,0.0,0,0.0
+Yunus Musah,21.0,Milan,it Serie A,"MF,FW",Playmaker,1571,0,2,2,1.9,1.8,84,0.6551724137931034
+Jamal Musiala,21.0,Bayern Munich,de Bundesliga,MF,Defender,1798,12,2,14,9.3,4.5,107,0.84
+Kingstone Mutandwa,21.0,Cagliari,it Serie A,"FW,MF",Finisher,127,0,0,0,0.4,0.0,0,0.0
+Junior Mwanga,21.0,Le Havre,fr Ligue 1,MF,Finisher,952,1,2,3,1.3,1.0,42,1.0
+Junior Mwanga,21.0,Strasbourg,fr Ligue 1,MF,Finisher,296,0,0,0,0.0,0.0,10,0.25
+Loïc N'Gatta,20.0,Auxerre,fr Ligue 1,DF,Finisher,13,0,0,0,0.0,0.0,1,0.0
+Djylian N'Guessan,15.0,Saint-Étienne,fr Ligue 1,FW,Finisher,181,0,0,0,0.4,0.1,9,0.375
+Bilal Nadir,20.0,Marseille,fr Ligue 1,MF,Finisher,383,1,0,1,0.6,0.4,18,0.3333333333333333
+Mahamadou Nagida,19.0,Rennes,fr Ligue 1,DF,Finisher,430,2,0,2,1.5,0.3,15,0.3333333333333333
+Yael Nandjou,19.0,Nice,fr Ligue 1,DF,Finisher,154,0,0,0,0.2,0.7,3,0.6666666666666666
+Pau Navarro,19.0,Villarreal,es La Liga,DF,Finisher,916,0,0,0,0.0,0.0,40,0.47058823529411764
+Junior Ndiaye,19.0,Montpellier,fr Ligue 1,FW,Finisher,441,0,0,0,0.5,0.4,7,0.26666666666666666
+Wilfried Ndollo,19.0,Montpellier,fr Ligue 1,DF,Finisher,401,0,0,0,0.0,0.0,7,0.375
+Cher Ndour,20.0,Fiorentina,it Serie A,"MF,DF",Finisher,406,0,0,0,0.1,0.0,17,0.4444444444444444
+Paul Nebel,21.0,Mainz 05,de Bundesliga,MF,Defender,2345,10,4,14,5.8,4.1,91,0.8387096774193549
+Kosta Nedeljković,18.0,Aston Villa,eng Premier League,DF,Finisher,126,0,0,0,0.0,0.0,6,0.0
+Kosta Nedeljković,18.0,RB Leipzig,de Bundesliga,DF,Finisher,479,0,0,0,0.5,0.3,16,0.6
+Luca Netz,21.0,Gladbach,de Bundesliga,DF,Finisher,969,0,2,2,0.2,1.9,28,0.3333333333333333
+João Neves,19.0,Paris S-G,fr Ligue 1,"MF,DF",Defender,1844,3,8,11,3.0,4.0,144,0.7586206896551724
+Mikayil Ngor Faye,20.0,Rennes,fr Ligue 1,DF,Finisher,688,0,0,0,0.4,0.0,35,0.6363636363636364
+Steve Ngoura,19.0,Le Havre,fr Ligue 1,FW,Finisher,289,0,0,0,1.3,0.4,8,0.25
+Bernard Nguene,17.0,Nice,fr Ligue 1,FW,Finisher,13,0,0,0,0.0,0.0,0,0.0
+Oliver Nielsen,21.0,Lazio,it Serie A,DF,Finisher,35,0,0,0,0.0,0.0,0,0.0
+Eybi Nije,19.0,Torino,it Serie A,"FW,MF",Finisher,394,1,0,1,1.5,0.4,7,0.0
+Adrian Niño,20.0,Atlético Madrid,es La Liga,FW,Finisher,12,0,0,0,0.2,0.0,0,0.0
+Brooke Norton-Cuffy,20.0,Genoa,it Serie A,"DF,FW",Finisher,719,0,0,0,0.3,0.2,18,0.5714285714285714
+Hugo Novoa,21.0,Alavés,es La Liga,"DF,MF",Finisher,237,0,0,0,0.5,0.2,2,0.4
+Ernest Nuamah,20.0,Lyon,fr Ligue 1,"FW,MF",Playmaker,1052,3,1,4,2.2,1.5,33,0.5652173913043478
+Gustavo Nunes,18.0,Brentford,eng Premier League,"FW,MF",Finisher,12,0,0,0,0.0,0.0,0,0.0
+Antonio Nusa,19.0,RB Leipzig,de Bundesliga,"MF,DF",Playmaker,1558,3,3,6,1.6,2.8,52,0.64
+Ethan Nwaneri,17.0,Arsenal,eng Premier League,"FW,MF",Playmaker,895,4,2,6,1.2,1.2,33,0.4230769230769231
+Rabby Nzingoula,18.0,Montpellier,fr Ligue 1,MF,Playmaker,1689,1,0,1,1.0,1.6,40,0.7407407407407407
+Marwann Nzuzi,20.0,Saint-Étienne,fr Ligue 1,DF,Finisher,125,0,0,0,0.0,0.1,2,1.0
+Adam Obert,21.0,Cagliari,it Serie A,DF,Playmaker,1077,1,1,2,0.9,0.4,50,0.6190476190476191
+Chidozie Obi-Martin,16.0,Manchester Utd,eng Premier League,FW,Finisher,165,0,0,0,0.7,0.0,1,0.14285714285714285
+Wilson Odobert,19.0,Tottenham,eng Premier League,"FW,MF",Finisher,850,1,0,1,1.6,1.0,27,0.5625
+David Odogu,18.0,Wolfsburg,de Bundesliga,DF,Finisher,195,0,0,0,0.2,0.0,8,0.6666666666666666
+Tim Oermann,20.0,Bochum,de Bundesliga,DF,Playmaker,2213,0,2,2,0.2,0.6,61,0.896551724137931
+Ifechukwu Ogbus,18.0,Freiburg,de Bundesliga,DF,Finisher,19,0,0,0,0.0,0.0,0,0.0
+Thiago Ojeda,21.0,Villarreal,es La Liga,MF,Finisher,8,0,0,0,0.0,0.0,2,0.0
+Hamzat Ojediran,20.0,Lens,fr Ligue 1,"MF,FW",Finisher,416,1,0,1,0.6,0.4,22,0.058823529411764705
+Yllan Okou,21.0,Hellas Verona,it Serie A,DF,Finisher,2,0,0,0,0.0,0.0,0,0.0
+Aingeru Olabarrieta,18.0,Athletic Club,es La Liga,FW,Finisher,54,0,0,0,0.0,0.0,1,1.0
+Kazeem Olaigbe,21.0,Rennes,fr Ligue 1,"MF,FW",Finisher,299,0,2,2,0.3,1.9,18,0.3
+Ben Old,21.0,Saint-Étienne,fr Ligue 1,"FW,MF",Finisher,528,0,0,0,1.0,0.8,14,0.3076923076923077
+Jacob Ondrejka,21.0,Parma,it Serie A,"MF,FW",Finisher,422,5,0,5,1.3,0.6,11,0.25
+Fredrik Oppegard,21.0,Auxerre,fr Ligue 1,DF,Finisher,273,0,0,0,0.1,0.1,7,0.2222222222222222
+Victor Orakpo,18.0,Nice,fr Ligue 1,FW,Finisher,36,0,0,0,0.3,0.0,1,0.0
+Ike Orazi,17.0,Reims,fr Ligue 1,MF,Finisher,3,0,0,0,0.0,0.0,0,0.0
+Lewis Orford,18.0,West Ham,eng Premier League,MF,Finisher,49,0,0,0,0.0,0.0,0,0.0
+Gaetano Oristanio,21.0,Venezia,it Serie A,"FW,MF",Playmaker,2315,3,3,6,4.1,2.6,64,0.7837837837837838
+Ángel Ortíz,20.0,Betis,es La Liga,DF,Finisher,353,0,1,1,0.0,0.1,15,0.8
+Gabriel Osei Misehouy,19.0,Girona,es La Liga,"FW,MF",Finisher,257,1,0,1,0.9,0.3,15,0.1111111111111111
+William Osula,20.0,Newcastle Utd,eng Premier League,FW,Finisher,134,1,0,1,0.2,0.1,4,0.0
+Jibril Othman,20.0,Saint-Étienne,fr Ligue 1,FW,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Sebastian Otoa,20.0,Genoa,it Serie A,DF,Finisher,179,0,0,0,0.0,0.0,0,1.0
+David Otorbi,16.0,Valencia,es La Liga,MF,Finisher,14,0,0,0,0.0,0.0,0,0.0
+Guimissongui Ouattara,18.0,Strasbourg,fr Ligue 1,"DF,FW",Finisher,471,1,1,2,0.3,0.5,18,0.17647058823529413
+Kassoum Ouattara,19.0,Monaco,fr Ligue 1,"DF,FW",Finisher,391,0,1,1,0.2,1.2,16,0.4166666666666667
+Assan Ouedraogo,18.0,RB Leipzig,de Bundesliga,MF,Finisher,50,0,0,0,0.1,0.0,1,0.0
+Beres Owusu,20.0,Saint-Étienne,fr Ligue 1,DF,Finisher,90,0,0,0,0.0,0.0,3,1.0
+Daniel Oyegoke,21.0,Hellas Verona,it Serie A,DF,Finisher,103,0,0,0,0.0,0.0,2,0.0
+Nico O’Reilly,19.0,Manchester City,eng Premier League,DF,Finisher,528,2,0,2,1.3,0.4,17,0.6666666666666666
+Alex Padilla,20.0,Athletic Club,es La Liga,GK,Finisher,321,0,0,0,0.0,0.0,0,0.6
+Simone Pafundi,18.0,Udinese,it Serie A,"MF,DF",Finisher,116,0,0,0,0.1,0.7,0,0.0
+Tomás Palacios,21.0,Monza,it Serie A,DF,Finisher,446,0,0,0,0.0,0.0,21,0.625
+Tomás Palacios,21.0,Inter,it Serie A,DF,Finisher,11,0,0,0,0.0,0.0,3,0.0
+Marco Palestra,19.0,Atalanta,it Serie A,DF,Finisher,222,0,0,0,0.0,0.2,6,0.2222222222222222
+Matteo Palma,16.0,Udinese,it Serie A,DF,Finisher,5,0,0,0,0.0,0.0,1,0.0
+Mats Pannewig,19.0,Bochum,de Bundesliga,MF,Finisher,267,0,0,0,0.8,0.1,10,0.14285714285714285
+Kevin Paredes,21.0,Wolfsburg,de Bundesliga,DF,Finisher,123,0,1,1,0.4,0.1,7,1.0
+Iago Parente,18.0,Valladolid,es La Liga,DF,Finisher,71,0,0,0,0.0,0.0,4,1.0
+Aleksandar Pavlovic,20.0,Bayern Munich,de Bundesliga,MF,Playmaker,1451,1,0,1,0.6,0.2,128,0.8571428571428571
+Nicolas Pays,20.0,Montpellier,fr Ligue 1,"FW,MF",Finisher,447,0,0,0,1.3,0.1,14,0.4444444444444444
+Nicolás Paz,19.0,Como,it Serie A,"MF,FW",Defender,2687,6,8,14,9.3,6.0,163,0.8571428571428571
+Pedri,21.0,Barcelona,es La Liga,MF,Defender,2879,4,5,9,2.2,7.4,360,0.9459459459459459
+Kévin Pedro,18.0,Saint-Étienne,fr Ligue 1,DF,Finisher,10,0,0,0,0.0,0.0,0,0.0
+Timothee Pembele,21.0,Le Havre,fr Ligue 1,DF,Finisher,1113,1,0,1,1.3,0.1,43,0.6
+Peque,21.0,Sevilla,es La Liga,"MF,FW",Finisher,1134,1,1,2,2.5,1.2,35,0.5384615384615384
+Sergiu Perciun,18.0,Torino,it Serie A,"FW,MF",Finisher,152,0,0,0,0.0,0.1,4,0.0
+Óscar Perea,18.0,Strasbourg,fr Ligue 1,"MF,DF",Finisher,14,0,0,0,0.0,0.0,2,0.0
+Francisco Perez,21.0,Valencia,es La Liga,"FW,MF",Finisher,570,0,0,0,0.3,2.6,13,0.15384615384615385
+Máximo Perrone,21.0,Como,it Serie A,MF,Playmaker,1857,0,3,3,0.9,2.2,98,0.7692307692307693
+Noah Pesch,19.0,Gladbach,de Bundesliga,FW,Finisher,6,0,0,0,0.0,0.0,1,0.0
+Prosper Peter,16.0,Angers,fr Ligue 1,"MF,FW",Finisher,27,0,0,0,0.0,0.0,0,0.0
+Valentín Pezzolesi,17.0,Las Palmas,es La Liga,DF,Finisher,6,0,0,0,0.0,0.0,0,0.0
+Yeremi Pino,21.0,Villarreal,es La Liga,"MF,FW",Defender,1934,4,7,11,3.9,5.3,66,0.7352941176470589
+Nicola Pintus,19.0,Cagliari,it Serie A,DF,Finisher,4,0,0,0,0.0,0.0,0,0.0
+Niccolò Pisilli,19.0,Roma,it Serie A,MF,Playmaker,1227,2,1,3,2.7,0.7,63,0.39285714285714285
+Damián Pizarro,19.0,Udinese,it Serie A,"FW,MF",Finisher,16,0,0,0,0.0,0.0,0,0.0
+Alfie Pond,20.0,Wolves,eng Premier League,DF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Tom Pouilly,21.0,Lens,fr Ligue 1,"DF,MF",Finisher,273,0,0,0,0.4,0.4,11,0.2
+Matteo Prati,20.0,Cagliari,it Serie A,MF,Finisher,570,0,0,0,0.1,0.7,23,0.6666666666666666
+David Preu,19.0,Union Berlin,de Bundesliga,"MF,DF",Finisher,121,0,0,0,0.1,0.0,3,0.2
+Diego Pugno,18.0,Juventus,it Serie A,FW,Finisher,7,0,0,0,0.0,0.1,0,0.0
+Jarell Quansah,21.0,Liverpool,eng Premier League,DF,Finisher,495,0,0,0,0.1,0.1,19,0.3076923076923077
+Leopold Querfeld,20.0,Union Berlin,de Bundesliga,DF,Playmaker,1747,2,2,4,1.1,1.0,49,0.6296296296296297
+Arnau Rafús,21.0,Valladolid,es La Liga,GK,Finisher,90,0,0,0,0.0,0.0,0,1.0
+Antonio Raimondo,20.0,Venezia,it Serie A,"FW,DF",Finisher,94,0,0,0,0.3,0.1,2,0.0
+Jacobo Ramón,19.0,Real Madrid,es La Liga,DF,Finisher,204,1,0,1,0.2,0.2,1,0.6666666666666666
+Grant Ranos,21.0,Gladbach,de Bundesliga,FW,Finisher,20,0,0,0,0.0,0.0,1,0.0
+Remy Rees-Dottin,18.0,Bournemouth,eng Premier League,FW,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Vitor Reis,18.0,Manchester City,eng Premier League,DF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Devyne Rensch,21.0,Roma,it Serie A,DF,Finisher,469,0,1,1,0.3,0.8,14,0.35714285714285715
+Daniel Requena,20.0,Villarreal,es La Liga,MF,Finisher,10,0,0,0,0.0,0.0,0,0.0
+Guillaume Restes,19.0,Toulouse,fr Ligue 1,GK,Finisher,2543,0,1,1,0.0,0.1,0,1.0
+Gio Reyna,21.0,Dortmund,de Bundesliga,MF,Finisher,350,2,0,2,0.2,0.2,22,0.1875
+Chadi Riad,21.0,Crystal Palace,eng Premier League,DF,Finisher,90,0,0,0,0.0,0.0,7,1.0
+Alberto Risco,18.0,Getafe,es La Liga,"MF,FW",Finisher,69,0,0,0,0.2,0.1,3,0.0
+Gorka Rivera Alonso,19.0,Getafe,es La Liga,"DF,MF",Finisher,20,0,0,0,0.0,0.0,1,0.0
+Jay Robinson,17.0,Southampton,eng Premier League,"MF,FW",Finisher,137,0,0,0,0.0,0.7,1,0.25
+Alejandro Rodriguez,16.0,Lyon,fr Ligue 1,MF,Finisher,20,0,0,0,0.0,0.0,0,0.0
+Álvaro Rodríguez,20.0,Getafe,es La Liga,FW,Playmaker,852,2,0,2,1.2,0.3,13,0.3181818181818182
+Arturo Rodríguez,17.0,Las Palmas,es La Liga,FW,Finisher,21,0,0,0,0.0,0.0,0,0.0
+Damián Rodríguez,21.0,Celta Vigo,es La Liga,MF,Finisher,927,0,0,0,0.1,0.8,71,0.5882352941176471
+Daniel Rodriguez,18.0,Barcelona,es La Liga,FW,Finisher,37,0,0,0,0.0,0.0,2,1.0
+Javi Rodríguez,21.0,Celta Vigo,es La Liga,DF,Playmaker,2514,3,2,5,2.3,1.0,114,0.7222222222222222
+Jesus Rodríguez,18.0,Betis,es La Liga,FW,Finisher,1111,2,0,2,2.3,0.2,35,0.7142857142857143
+Luka Romero,19.0,Alavés,es La Liga,"FW,MF",Finisher,199,0,0,0,0.8,0.2,0,0.3333333333333333
+Vitor Roque,19.0,Betis,es La Liga,FW,Playmaker,1235,4,0,4,6.1,1.2,17,0.6363636363636364
+Max Rosenfelder,21.0,Freiburg,de Bundesliga,DF,Finisher,1249,1,0,1,0.4,0.7,29,0.52
+Tom Rothe,19.0,Union Berlin,de Bundesliga,"DF,MF",Playmaker,1670,3,3,6,1.8,1.3,50,0.7307692307692307
+Jonas Rouhi,20.0,Juventus,it Serie A,DF,Finisher,210,0,0,0,0.0,0.0,9,0.2
+Jon Rowe,21.0,Marseille,fr Ligue 1,"FW,MF",Playmaker,807,3,3,6,3.5,4.5,31,0.21428571428571427
+Tommaso Rubino,17.0,Fiorentina,it Serie A,MF,Finisher,8,0,0,0,0.0,0.0,1,0.0
+Ferrán Ruiz,21.0,Girona,es La Liga,MF,Finisher,18,0,0,0,0.0,0.0,1,0.0
+Richie Sagrado,20.0,Venezia,it Serie A,DF,Finisher,140,0,0,0,0.1,0.0,2,1.0
+Faik Sakar,16.0,RB Leipzig,de Bundesliga,MF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Jan Salas,18.0,Mallorca,es La Liga,"MF,FW",Finisher,43,0,0,0,0.1,0.0,4,0.0
+Chuky san jose,20.0,Valladolid,es La Liga,MF,Finisher,728,2,0,2,2.2,1.2,15,0.5
+Juanlu Sánchez,20.0,Sevilla,es La Liga,"MF,DF",Playmaker,1722,4,4,8,2.1,2.8,68,0.5625
+Nhoa Sangui,18.0,Reims,fr Ligue 1,"DF,MF",Playmaker,1158,0,2,2,0.1,0.5,45,0.38461538461538464
+Jesús Santiago,20.0,Getafe,es La Liga,MF,Finisher,372,0,0,0,0.0,0.0,16,0.21052631578947367
+Andrey Santos,20.0,Strasbourg,fr Ligue 1,MF,Defender,2855,10,3,13,5.1,3.3,149,1.0
+Kauã Santos,21.0,Eint Frankfurt,de Bundesliga,GK,Finisher,765,0,0,0,0.0,0.0,1,0.8888888888888888
+Mamadou Sarr,18.0,Strasbourg,fr Ligue 1,DF,Playmaker,2365,0,1,1,0.8,0.3,52,1.0
+Sávio,20.0,Manchester City,eng Premier League,"FW,MF",Defender,1766,1,8,9,5.0,6.9,67,0.7241379310344828
+Nicolò Savona,21.0,Juventus,it Serie A,DF,Playmaker,1724,2,1,3,0.5,1.2,59,0.6785714285714286
+Joe Scally,21.0,Gladbach,de Bundesliga,DF,Playmaker,2578,0,0,0,0.4,1.1,68,0.9375
+Giorgio Scalvini,20.0,Atalanta,it Serie A,DF,Finisher,272,0,0,0,0.1,0.0,20,0.6666666666666666
+Oliver Scarles,18.0,West Ham,eng Premier League,"DF,FW",Finisher,665,0,0,0,0.1,0.1,22,0.4666666666666667
+Dane Scarlett,20.0,Tottenham,eng Premier League,"FW,MF",Finisher,34,0,1,1,0.0,0.0,1,0.0
+Joël Schingtienne,21.0,Venezia,it Serie A,DF,Finisher,1122,0,0,0,0.0,0.1,28,0.75
+Alex Scott,20.0,Bournemouth,eng Premier League,MF,Finisher,755,0,0,0,0.7,0.9,52,0.4
+Jérémy Sebas,21.0,Strasbourg,fr Ligue 1,"FW,MF",Finisher,190,0,0,0,0.7,0.0,3,0.07692307692307693
+Jacopo Seghetti,19.0,Empoli,it Serie A,GK,Finisher,90,0,0,0,0.0,0.0,0,1.0
+Hiroki Sekine,21.0,Reims,fr Ligue 1,DF,Finisher,887,0,0,0,0.1,0.2,39,0.6
+Nicolás Serrano,21.0,Athletic Club,es La Liga,FW,Finisher,112,0,0,0,0.2,0.0,4,0.25
+Benjamin Šeško,21.0,RB Leipzig,de Bundesliga,"FW,MF",Defender,2380,13,5,18,10.0,2.1,46,0.9090909090909091
+Armindo Sieb,21.0,Mainz 05,de Bundesliga,"FW,MF",Playmaker,762,2,2,4,2.8,1.1,18,0.18518518518518517
+Zain Silcott-Duberry,19.0,Bournemouth,eng Premier League,FW,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Eric da Silva Moreira,18.0,Nott'ham Forest,eng Premier League,"MF,DF",Finisher,30,0,0,0,0.0,0.0,0,0.0
+Giuliano Simeone,21.0,Atlético Madrid,es La Liga,MF,Playmaker,1926,2,6,8,2.2,5.2,49,0.7878787878787878
+Xavi Simons,21.0,RB Leipzig,de Bundesliga,MF,Defender,2150,10,6,16,5.1,6.3,140,1.0
+Jahmai Simpson-Pusey,18.0,Manchester City,eng Premier League,DF,Finisher,96,0,0,0,0.0,0.0,3,0.5
+Ayanda Sishuba,19.0,Rennes,fr Ligue 1,FW,Finisher,3,0,0,0,0.0,0.0,0,0.0
+Niama Sissoko,18.0,Reims,fr Ligue 1,"FW,MF",Finisher,47,0,0,0,0.3,0.0,1,0.0
+Justin Smith,21.0,Espanyol,es La Liga,MF,Finisher,209,0,0,0,0.0,0.0,6,0.6
+Arnau Solà,21.0,Villarreal,es La Liga,MF,Finisher,13,0,0,0,0.0,0.0,0,0.0
+Julio Soler,19.0,Bournemouth,eng Premier League,"DF,FW",Finisher,11,0,0,0,0.0,0.0,0,0.0
+Jhon Solis,19.0,Girona,es La Liga,MF,Finisher,535,1,0,1,0.7,0.1,29,0.15789473684210525
+Hugo Sotelo,20.0,Celta Vigo,es La Liga,MF,Playmaker,1254,0,0,0,0.2,1.7,83,0.625
+Matìas Soulé,21.0,Roma,it Serie A,"MF,DF",Defender,1781,5,5,10,3.0,5.2,89,0.8148148148148148
+Jay Stansfield,21.0,Fulham,eng Premier League,MF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Lucas Stassin,19.0,Saint-Étienne,fr Ligue 1,FW,Defender,1887,12,4,16,7.0,3.4,35,0.8214285714285714
+Orri Steinn Óskarsson,19.0,Real Sociedad,es La Liga,FW,Finisher,944,3,0,3,5.2,0.2,9,0.391304347826087
+Enzo Sternal,17.0,Marseille,fr Ligue 1,"FW,MF",Finisher,24,0,0,0,0.0,0.0,0,0.0
+Finley Stevens,21.0,St. Pauli,de Bundesliga,DF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Luka Sučić,21.0,Real Sociedad,es La Liga,MF,Playmaker,1792,1,1,2,3.3,2.6,79,0.7241379310344828
+Ibrahim Sulemana,21.0,Atalanta,it Serie A,MF,Finisher,283,2,0,2,0.6,0.0,12,0.3333333333333333
+Zion Suzuki,21.0,Parma,it Serie A,GK,Playmaker,3314,0,0,0,0.0,0.0,0,1.0
+Williot Swedberg,20.0,Celta Vigo,es La Liga,"FW,MF",Playmaker,1348,4,5,9,5.2,2.6,28,0.46875
+Abakar Sylla,21.0,Strasbourg,fr Ligue 1,DF,Finisher,950,1,0,1,0.4,0.1,21,0.47619047619047616
+Axel Tapé,16.0,Paris S-G,fr Ligue 1,"DF,MF",Finisher,180,0,0,0,0.0,0.0,5,1.0
+Loum Tchaouna,20.0,Lazio,it Serie A,"FW,MF",Finisher,660,1,0,1,2.5,0.6,20,0.25
+Enzo Tchato,21.0,Montpellier,fr Ligue 1,DF,Playmaker,1899,0,0,0,0.1,1.5,62,0.7777777777777778
+Martín Tejón,20.0,Valencia,es La Liga,"MF,DF",Finisher,49,0,0,0,0.1,0.0,4,0.0
+Mathys Tel,19.0,Tottenham,eng Premier League,FW,Playmaker,911,2,1,3,3.0,2.5,21,0.8461538461538461
+Mathys Tel,19.0,Bayern Munich,de Bundesliga,"FW,MF",Finisher,256,0,1,1,0.7,0.3,9,0.25
+Filippo Terracciano,21.0,Milan,it Serie A,"DF,MF",Finisher,539,0,0,0,0.2,0.1,14,0.46153846153846156
+Umut Tohumcu,19.0,Hoffenheim,de Bundesliga,"MF,FW",Finisher,375,0,1,1,0.1,0.4,13,0.25
+Luka Topalović,18.0,Inter,it Serie A,MF,Finisher,11,0,0,0,0.0,0.0,0,0.0
+Pablo Torre,21.0,Barcelona,es La Liga,"MF,FW",Finisher,310,3,1,4,0.4,0.8,17,0.4
+David Torres,21.0,Valladolid,es La Liga,DF,Playmaker,1387,0,0,0,0.3,0.0,37,0.8333333333333334
+Lorenzo Tosto,18.0,Empoli,it Serie A,DF,Finisher,1,0,0,0,0.0,0.0,0,0.0
+Bazoumana Touré,18.0,Hoffenheim,de Bundesliga,"FW,MF",Finisher,609,0,3,3,1.4,1.9,14,0.5384615384615384
+Ousmane Toure,19.0,Lille,fr Ligue 1,DF,Finisher,6,0,0,0,0.0,0.0,2,0.0
+Souleymane Touré,21.0,Udinese,it Serie A,DF,Finisher,733,1,0,1,0.4,0.0,26,0.9166666666666666
+Ryan Trevitt,21.0,Brentford,eng Premier League,MF,Finisher,4,0,0,0,0.0,0.0,0,0.0
+Christantus Uche,21.0,Getafe,es La Liga,"FW,MF",Playmaker,2486,4,6,10,3.8,2.9,49,0.9090909090909091
+Destiny Udogie,21.0,Tottenham,eng Premier League,DF,Playmaker,1924,0,1,1,0.3,1.5,121,0.96
+Lesley Ugochukwu,20.0,Southampton,eng Premier League,MF,Playmaker,1655,1,1,2,0.9,1.0,49,0.6923076923076923
+Lukas Ullrich,20.0,Gladbach,de Bundesliga,DF,Playmaker,1903,1,2,3,0.9,1.8,39,0.9230769230769231
+Naci Ünüvar,21.0,Espanyol,es La Liga,"MF,DF",Finisher,31,0,0,0,0.0,0.0,1,0.0
+Kacper Urbanski,19.0,Bologna,it Serie A,MF,Finisher,247,1,0,1,0.3,0.5,15,0.14285714285714285
+Kacper Urbanski,19.0,Monza,it Serie A,MF,Finisher,500,0,0,0,0.1,0.1,41,0.75
+Jonas Urbig,20.0,Bayern Munich,de Bundesliga,GK,Finisher,720,0,0,0,0.0,0.0,3,1.0
+Can Uzun,18.0,Eint Frankfurt,de Bundesliga,"MF,FW",Playmaker,675,4,1,5,3.0,1.1,42,0.3
+Álex Valle,20.0,Como,it Serie A,DF,Finisher,1030,0,0,0,0.3,0.7,44,0.8
+Robinio Vaz,17.0,Marseille,fr Ligue 1,FW,Finisher,75,0,0,0,0.5,0.0,0,0.0
+Jesus Vazquez,21.0,Valencia,es La Liga,DF,Finisher,919,0,0,0,0.1,0.6,21,0.5263157894736842
+Danilo Veiga,21.0,Lecce,it Serie A,DF,Finisher,374,0,0,0,0.6,0.3,10,0.15384615384615385
+Renato Veiga,21.0,Chelsea,eng Premier League,"DF,MF",Finisher,181,0,0,0,0.1,0.0,7,0.14285714285714285
+Renato Veiga,21.0,Juventus,it Serie A,DF,Finisher,1093,0,1,1,1.0,0.1,40,0.9230769230769231
+Alejo Véliz,20.0,Espanyol,es La Liga,FW,Finisher,1127,1,0,1,2.3,0.6,8,0.37037037037037035
+Lorenzo Venturino,18.0,Genoa,it Serie A,"FW,MF",Finisher,167,2,0,2,0.7,0.2,7,0.16666666666666666
+Nikolas Veratschnig,21.0,Mainz 05,de Bundesliga,"DF,MF",Finisher,364,0,0,0,0.2,0.3,7,0.13333333333333333
+Bart Verbruggen,21.0,Brighton,eng Premier League,GK,Playmaker,3240,0,1,1,0.0,0.0,2,1.0
+Arthur Vermeeren,19.0,RB Leipzig,de Bundesliga,MF,Playmaker,1572,0,2,2,0.4,0.9,77,0.6428571428571429
+Ben Viadere,18.0,Auxerre,fr Ligue 1,MF,Finisher,5,0,0,0,0.0,0.0,0,0.0
+Gabriel Vidovic,20.0,Mainz 05,de Bundesliga,MF,Finisher,4,0,0,0,0.1,0.0,0,0.0
+Gabriel Vidovic,20.0,Bayern Munich,de Bundesliga,MF,Finisher,24,0,0,0,0.1,0.0,0,0.0
+Sergio Viera,19.0,Las Palmas,es La Liga,MF,Finisher,96,0,0,0,0.0,0.0,2,0.5
+Samuele Vignato,20.0,Monza,it Serie A,MF,Finisher,470,0,0,0,0.3,0.0,17,0.17647058823529413
+Krapyvtsov Vladyslav,19.0,Girona,es La Liga,GK,Finisher,180,0,0,0,0.0,0.0,0,1.0
+Vanja Vlahović,20.0,Atalanta,it Serie A,"FW,MF",Finisher,60,0,0,0,0.2,0.1,0,0.0
+Aster Vranckx,21.0,Wolfsburg,de Bundesliga,MF,Finisher,556,0,0,0,0.0,0.0,20,0.42857142857142855
+Robert Wagner,21.0,St. Pauli,de Bundesliga,MF,Finisher,407,0,0,0,0.1,0.0,10,0.4166666666666667
+Elye Wahi,21.0,Marseille,fr Ligue 1,FW,Finisher,574,3,1,4,6.0,0.4,7,0.5384615384615384
+Elye Wahi,21.0,Eint Frankfurt,de Bundesliga,"FW,MF",Finisher,196,0,0,0,1.3,0.1,5,0.125
+Paul Wanner,18.0,Heidenheim,de Bundesliga,"MF,FW",Playmaker,1771,3,2,5,3.7,1.3,64,0.6896551724137931
+Kjell-Arik Wätjen,18.0,Dortmund,de Bundesliga,MF,Finisher,16,0,0,0,0.0,0.0,0,0.0
+Nelson Weiper,19.0,Mainz 05,de Bundesliga,"FW,MF",Playmaker,704,3,2,5,4.1,1.9,13,0.30434782608695654
+Adam Wharton,20.0,Crystal Palace,eng Premier League,MF,Playmaker,1318,0,2,2,0.4,3.0,107,0.8
+Caleb Wiley,19.0,Strasbourg,fr Ligue 1,"DF,MF",Finisher,266,0,1,1,0.0,0.7,7,0.5
+Ben Winterburn,19.0,Bournemouth,eng Premier League,"MF,FW",Finisher,24,0,0,0,0.0,0.0,0,0.0
+Florian Wirtz,21.0,Leverkusen,de Bundesliga,"MF,FW",Defender,2351,10,12,22,9.4,7.0,176,0.8064516129032258
+Lamine Yamal,17.0,Barcelona,es La Liga,FW,Defender,2856,9,13,22,9.8,13.9,160,0.8857142857142857
+Daniel Yáñez,17.0,Real Madrid,es La Liga,FW,Finisher,2,0,0,0,0.0,0.0,0,0.0
+Yehor Yarmoliuk,20.0,Brentford,eng Premier League,MF,Playmaker,1450,0,0,0,0.6,0.9,63,0.4838709677419355
+Kenan Yıldız,19.0,Juventus,it Serie A,"FW,MF",Defender,2402,7,4,11,4.3,5.0,121,0.8
+Leny Yoro,18.0,Manchester Utd,eng Premier League,DF,Playmaker,1165,0,0,0,0.7,0.1,52,0.5714285714285714
+Illia Zabarnyi,21.0,Bournemouth,eng Premier League,DF,Playmaker,3109,0,1,1,1.3,0.7,140,0.9722222222222222
+Eloge Zabi,17.0,Reims,fr Ligue 1,"DF,MF",Finisher,18,0,0,0,0.0,0.0,2,0.0
+Yoram Zague,18.0,Paris S-G,fr Ligue 1,"DF,FW",Finisher,183,0,0,0,0.1,0.1,10,0.5
+Warren Zaïre-Emery,18.0,Paris S-G,fr Ligue 1,"MF,DF",Playmaker,2050,1,2,3,1.7,1.4,135,0.7931034482758621
+Arsen Zakharyan,21.0,Real Sociedad,es La Liga,"MF,FW",Finisher,73,1,0,1,0.2,0.1,3,0.3333333333333333
+Kevin Zeroli,19.0,Monza,it Serie A,MF,Finisher,395,0,1,1,0.8,0.5,5,0.5
+Kevin Zeroli,19.0,Milan,it Serie A,MF,Finisher,12,0,0,0,0.0,0.0,2,0.0
+Nathan Zeze,19.0,Nantes,fr Ligue 1,DF,Playmaker,1512,0,0,0,0.3,0.0,46,0.9444444444444444
+Luc Zogbé,19.0,Brest,fr Ligue 1,DF,Finisher,638,0,0,0,0.3,0.1,19,0.5384615384615384
+Aristide Zossou,19.0,Auxerre,fr Ligue 1,MF,Finisher,16,0,0,0,0.0,0.0,2,0.0
+Edhy Zuliani,19.0,Toulouse,fr Ligue 1,DF,Finisher,9,0,0,0,0.0,0.0,0,0.0
