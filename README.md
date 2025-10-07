@@ -1,154 +1,86 @@
-# ⚽ SoccerStats - Analyse des Jeunes Joueurs
+# SoccerStats
 
-Analyse approfondie des jeunes joueurs (≤ 21 ans) dans les 5 meilleures ligues européennes.
+Analysis and dashboarding toolkit for the 2024‑2025 season of the top five European leagues. The project ingests the public dataset `top5-players24-25.csv` (2 852 players, 37 variables) and provides:
 
-## 📊 À Propos
+- a reproducible Python workflow (`analysis_young_players.py`) tailored to scouting players aged 21 or younger;
+- an interactive Streamlit dashboard (`dashboard.py`) for exploring the full population (any age) across positions, leagues and clubs.
 
-Ce projet analyse les performances des jeunes joueurs en utilisant des métriques avancées :
-
-- **Buts et Passes** : Contributions offensives
-- **xG et xAG** : Expected Goals et Expected Assisted Goals
-- **Passes Progressives** : Capacité à faire avancer le jeu
-- **Clustering** : Classification automatique des rôles (Finisher, Defender, Playmaker)
-
-## 🚀 Installation
-
-### 1. Créer l'environnement virtuel
-
-```bash
-python3 -m venv venv
-source venv/bin/activate  # Sur macOS/Linux
+## 1. Repository Layout
+```
+SoccerStats/
+├── analysis_young_players.py     # End-to-end analysis script focused on young players
+├── dashboard.py                  # Streamlit application (multi-tab analytics)
+├── DASHBOARD_GUIDE.md            # Detailed usage manual for the dashboard
+├── requirements.txt              # Python dependencies
+├── top5-players24-25.csv         # Full dataset (input)
+├── young_players_analysis.csv    # Exported table from the young-players workflow
+├── top_30_young_players_ga.csv   # Young players ranked by goals + assists
+├── role_statistics.csv           # Aggregated statistics per inferred role
+└── README.md                     # Project overview (this file)
 ```
 
-### 2. Installer les dépendances
-
+## 2. Environment Setup
 ```bash
+python3 -m venv venv
+source venv/bin/activate        # macOS / Linux
+# .\venv\Scripts\activate      # Windows PowerShell
 pip install -r requirements.txt
 ```
 
-## 📂 Structure du Projet
-
-```
-SoccerStats/
-├── top5-players24-25.csv          # Dataset principal
-├── analysis_young_players.py      # Script d'analyse principal
-├── requirements.txt               # Dépendances Python
-├── README.md                      # Ce fichier
-└── Résultats générés :
-    ├── young_players_analysis.csv      # Tous les jeunes joueurs + rôles
-    ├── top_30_young_players_ga.csv     # Top 30 par G+A
-    └── role_statistics.csv             # Statistiques par rôle
-```
-
-## 🎮 Utilisation
-
-### Exécuter l'analyse complète
-
+## 3. Running the Analyses
+### 3.1 Scripted pipeline (≤ 21 ans)
 ```bash
 python analysis_young_players.py
 ```
+Produces three CSV artefacts at the project root:
+- `young_players_analysis.csv` – complete record of qualified players with advanced metrics and inferred roles (Finisher, Defender, Playmaker).
+- `top_30_young_players_ga.csv` – ranking by total goals plus assists.
+- `role_statistics.csv` – descriptive statistics per role cluster.
 
-Le script va :
+The script handles data cleaning, feature engineering (xG, xAG, progressive actions), exploratory charts saved in the `figures` directory (created on the fly) and a basic clustering workflow (PCA + k-means).
 
-1. ✅ Charger et nettoyer les données
-2. 📊 Générer des visualisations interactives (graphiques Plotly)
-3. 🔍 Analyser les jeunes joueurs par ligue, club, position
-4. 🎯 Calculer l'efficacité (xG, xAG, ratios)
-5. 🤖 Classifier les joueurs par rôle (Machine Learning)
-6. 💾 Exporter les résultats en CSV
-
-## 📈 Analyses Incluses
-
-### 1. Distribution d'Âge
-
-- Par ligue avec moyennes et médianes
-- Identification des ligues les plus jeunes
-
-### 2. Jeunes Joueurs (≤ 21 ans)
-
-- Nombre par ligue et par club
-- Proportion dans chaque équipe
-- Minutes jouées et ratio de titularisation
-
-### 3. Performance Offensive
-
-- Top buteurs et passeurs
-- Contribution totale (G+A)
-- Efficacité par rapport à xG et xAG
-
-### 4. Passes Progressives
-
-- Capacité à faire progresser le ballon
-- Relation avec xAG
-
-### 5. Clustering des Rôles
-
-- **Finisher** : Buteurs prolifiques
-- **Defender** : Joueurs défensifs
-- **Playmaker** : Créateurs de jeu
-
-## 🔧 Personnalisation
-
-Vous pouvez modifier les paramètres dans le script :
-
-```python
-# Changer le seuil d'âge
-age_threshold = 21  # Essayez 18, 19, 23...
-
-# Changer le nombre minimum de buts pour l'analyse d'efficacité
-young_scorers = df_cleaned[(df_cleaned['Age'] <= age_threshold) & (df_cleaned['Gls'] >= 10)]
+### 3.2 Interactive dashboard
+```bash
+streamlit run dashboard.py
 ```
+The app opens on http://localhost:8501 and exposes four tabs:
+1. **Vue d'ensemble** – positional and national distributions, leaderboard tables, aggregated indicators.
+2. **Analyse individuelle** – per-position averages, scatterplots relating workload to offensive output, top contributions per 90 minutes.
+3. **Comparaison des ligues** – tables and bar charts comparing goals and assists totals/averages plus squad composition by position.
+4. **Analyse détaillée** – player search, comparative radar, multi-player comparator, correlation matrix, 3D scatter and exportable table.
 
-## 📝 Colonnes du Dataset
+Refer to `DASHBOARD_GUIDE.md` for screenshots, filter descriptions and customisation hints.
 
-- `Player` : Nom du joueur
-- `Age`, `Born` : Âge et année de naissance
-- `Squad` : Équipe
-- `Comp` : Ligue (Premier League, La Liga, etc.)
-- `Pos` : Position (FW, MF, DF, GK)
-- `MP`, `Starts`, `Min`, `90s` : Temps de jeu
-- `Gls`, `Ast`, `G+A` : Buts et passes
-- `xG`, `xAG` : Métriques attendues
-- `PrgP`, `PrgC`, `PrgR` : Actions progressives
-- `CrdY`, `CrdR` : Cartons
+## 4. Dataset Overview
+Source file: `top5-players24-25.csv`
+- Coverage: Premier League, La Liga, Serie A, Bundesliga, Ligue 1.
+- Key columns: `Player`, `Nation`, `Pos`, `Squad`, `Comp`, `Age`, `MP`, `Starts`, `Min`, `Gls`, `Ast`, `G+A`, `xG`, `xAG`, `PrgP`, `PrgC`, `PrgR`, disciplinary data.
+- Derived metrics in project outputs: ratios per match, per 90 minutes, cumulative contributions, expected metrics, progressive actions, role clustering labels.
 
-## 🎯 Résultats Exportés
+## 5. Key Indicators (definitions)
+| Metric | Description |
+|--------|-------------|
+| `Buts_par_Match` | Goals divided by matches played (`Gls / MP`). |
+| `Passes_Déc_par_Match` | Assists divided by matches played (`Ast / MP`). |
+| `Minutes_par_Match` | Minutes divided by matches played (`Min / MP`). |
+| `Buts_par_90` / `Passes_par_90` | Goals or assists normalised per 90 minutes (`Gls / 90s`, `Ast / 90s`). |
+| `Buts_plus_Passes_90` | Sum of goals and assists per 90 minutes. |
+| `xG_par_90`, `xAG_par_90` | Expected goals/assists per 90 minutes. |
+| `Matchs_90` | Equivalent full matches (`90s`). |
+| `Niveau_Expérience` | Categorisation based on matches played (Débutant, Intermédiaire, Confirmé, Expert). |
 
-### 1. `young_players_analysis.csv`
+## 6. Customisation Points
+- Modify age threshold or minimum match logic inside `analysis_young_players.py` to target different cohorts.
+- Extend the dashboard filters or charts by editing `dashboard.py` (for example adjust Plotly colour sequences or add new derived metrics in `load_data`).
+- Replace `top5-players24-25.csv` with another export: update the mapping dictionaries for nations/positions if new values appear.
 
-Tous les jeunes joueurs avec leur classification :
+## 7. Troubleshooting
+| Symptom | Resolution |
+|---------|------------|
+| Streamlit refuses to start | Ensure the virtual environment is active and dependencies are installed; run `pip install -r requirements.txt` again. |
+| Port 8501 already in use | Launch `streamlit run dashboard.py --server.port 8502`. |
+| Empty dashboard views | Check that filters are not overly restrictive; inspect the CSV for missing columns. |
+| Analysis script fails on imports | Confirm the interpreter uses the virtual environment (run `which python` / `where python`). |
 
-- Informations personnelles
-- Statistiques de performance
-- Rôle assigné par clustering
-
-### 2. `top_30_young_players_ga.csv`
-
-Les 30 meilleurs jeunes joueurs par G+A
-
-### 3. `role_statistics.csv`
-
-Statistiques moyennes par rôle (Finisher, Defender, Playmaker)
-
-## 📚 Technologies Utilisées
-
-- **Pandas** : Manipulation de données
-- **Plotly** : Visualisations interactives
-- **Scikit-learn** : Machine Learning (K-Means, PCA)
-- **Seaborn & Matplotlib** : Visualisations supplémentaires
-
-## 💡 Cas d'Usage
-
-- 🔍 **Scouting** : Identifier les jeunes talents prometteurs
-- 📊 **Analyse d'équipe** : Comparer les stratégies de développement
-- 🎯 **Recrutement** : Trouver des profils spécifiques (buteurs, créateurs)
-- 📈 **Stratégie** : Analyser les ligues les plus propices aux jeunes
-
-## 👨‍💻 Auteur
-
-Basé sur le notebook Kaggle de **dzulfikrialwi**  
-Adapté pour SoccerStats par **Rafikiks**
-
-## 📄 Licence
-
-Ce projet est à des fins éducatives et d'analyse de données sportives.
+## 8. Credits
+Dataset exploration adapted from the Kaggle work of dzulfikrialwi and extended by Rafikiks for scouting and dashboard purposes. Use the material for educational or analytical objectives; no licence warranty is provided.

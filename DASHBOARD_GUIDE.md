@@ -1,197 +1,109 @@
-# 🎮 Guide du Dashboard SoccerStats
+# SoccerStats Dashboard Guide
 
-## 🚀 Lancement du Dashboard
+## 1. Présentation
+Ce guide explique comment lancer, utiliser et adapter le dashboard `dashboard.py`. L'application est construite avec Streamlit et exploite le fichier `top5-players24-25.csv`, qui rassemble 2 852 joueurs issus des cinq principaux championnats européens. Les visualisations sont organisées en quatre onglets complémentaires pour couvrir la répartition des joueurs, l'analyse individuelle, la comparaison entre ligues et les études détaillées.
 
+## 2. Pré-requis
+- Python 3.9 ou version supérieure
+- Virtualenv (recommandé)
+- Dépendances installées via `pip install -r requirements.txt`
+- Fichier de données `top5-players24-25.csv` disponible à la racine du projet
+
+## 3. Lancement rapide
 ```bash
 # 1. Activer l'environnement virtuel
 source venv/bin/activate
 
-# 2. Lancer le dashboard
+# 2. Installer les dépendances (première utilisation)
+pip install -r requirements.txt
+
+# 3. Démarrer le dashboard
 streamlit run dashboard.py
 ```
+Le tableau de bord est accessible sur http://localhost:8501 (ou sur le port indiqué par Streamlit).
 
-Le dashboard s'ouvrira automatiquement dans votre navigateur à l'adresse : **http://localhost:8501**
+Pour arrêter le serveur, revenir dans le terminal et utiliser `Ctrl + C`.
 
-## 📊 Fonctionnalités du Dashboard
+## 4. Structure des filtres
+La barre latérale propose cinq filtres qui conditionnent toutes les vues :
+- **Ligues** : activer une ou plusieurs compétitions
+- **Positions** : sélectionner les postes suivis (GB, DF, MI, AT, combinaisons hybrides)
+- **Âge** : définir une plage d'âge minimale et maximale
+- **Matchs joués** : fixer la tranche d'expérience (MP)
+- **Buts minimum** : exclure les joueurs en dessous d'un quota de buts
 
-### 🔧 Barre Latérale (Filtres)
+Chaque modification recharge automatiquement les graphiques et les tableaux. Le compteur de joueurs filtrés s'actualise en haut de page pour indiquer la taille de l'échantillon.
 
-Le dashboard offre des filtres interactifs :
+## 5. Navigation par onglets
+### 5.1 Vue d'ensemble
+- Barres horizontales : distribution des joueurs par position
+- Diagramme en anneau : répartition des effectifs par ligue
+- Histogramme des dix nations les plus représentées
+- Tableaux des dix meilleurs buteurs et passeurs
+- Indicateurs moyens (buts par 90, passes par 90, minutes par match)
 
-1. **Ligues** : Sélectionner une ou plusieurs ligues
+### 5.2 Analyse individuelle
+- Barres comparant les buts par 90 minutes et les passes par 90 minutes par position
+- Nuage de points minutes jouées vs buts par 90 minutes (taille = passes par 90)
+- Nuage de points buts par 90 vs passes par 90 (taille = minutes par match)
+- Nuage de points par niveau d'expérience (plages de matchs joués)
+- Classement des quinze meilleures contributions offensives (buts + passes / 90)
 
-   - Premier League, La Liga, Serie A, Bundesliga, Ligue 1
+### 5.3 Comparaison des ligues
+- Tableau récapitulatif des cumuls de buts et de passes par ligue
+- Barres groupées illustrant ces volumes
+- Tableau et barres groupées des moyennes par joueur (buts par 90, passes par 90)
+- Graphique empilé des effectifs par position pour chaque ligue
 
-2. **Positions** : Filtrer par position
+### 5.4 Analyse détaillée
+- Recherche textuelle d'un joueur avec fiche synthétique (indicateurs et radar offensif)
+- Comparateur multi-joueurs (jusqu'à quatre profils) avec tableau et radar partagé
+- Matrice de corrélation des indicateurs clés (buts/90, passes/90, minutes, MP, âge)
+- Nuage de points 3D combinant buts/90, passes/90 et minutes par match
+- Tableau filtrable et exportable en CSV (colonnes principales et ratios par 90)
 
-   - FW (Attaquants), MF (Milieux), DF (Défenseurs), GK (Gardiens)
-   - Positions hybrides : FW,MF / DF,MF / etc.
+## 6. Indicateurs calculés
+| Indicateur | Description |
+|------------|-------------|
+| `Buts_par_Match` | Buts / matchs joués |
+| `Passes_Déc_par_Match` | Passes décisives / matchs joués |
+| `Minutes_par_Match` | Minutes / matchs joués |
+| `Buts_par_90` | Buts ramenés à 90 minutes |
+| `Passes_par_90` | Passes décisives ramenées à 90 minutes |
+| `Buts_plus_Passes_90` | Somme buts + passes par 90 minutes |
+| `xG_par_90`, `xAG_par_90` | Attendus offensifs par 90 minutes |
+| `Matchs_90` | Equivalent matchs complets (colonne `90s`) |
 
-3. **Âge** : Slider pour définir la tranche d'âge
+Ces colonnes sont disponibles dans les tableaux et les visualisations quand elles existent dans le CSV source.
 
-   - Min : 15 ans
-   - Max : 41 ans
+## 7. Utilisation du comparateur de joueurs
+1. Dans l'onglet "Analyse détaillée", utiliser la recherche pour inspecter un joueur spécifique.
+2. Activer le sélecteur multiple "Sélectionner des joueurs à comparer".
+3. Choisir jusqu'à quatre joueurs ; les statistiques clés apparaissent dans un tableau dédié.
+4. Le radar comparatif met en évidence les différences de production offensive (buts, passes, contributions, xG, xAG par 90 minutes).
 
-4. **Matchs Joués (MP)** : Niveau d'expérience
+## 8. Export et exploitation des données
+- Chaque graphique Streamlit dispose d'une icône caméra pour télécharger l'image.
+- L'onglet "Analyse détaillée" contient un tableau interactif avec champ de recherche (nom, équipe, ligue) et bouton de téléchargement CSV.
+- Les résultats exportés reflètent les filtres actifs au moment du clic.
 
-   - Filtrer par nombre de matchs joués
+## 9. Personnalisation rapide
+- Les palettes de couleurs ou hauteurs peuvent être adaptées directement dans `dashboard.py` en modifiant les paramètres `color_discrete_map`, `color_discrete_sequence` ou `height` lors de la création des figures Plotly.
+- Les plages des niveaux d'expérience sont définies ligne 367 (`pd.cut`). Ajuster les bornes si nécessaire.
+- Ajouter de nouvelles colonnes calculées dans la fonction `load_data()` avant le retour du DataFrame.
 
-5. **Buts Minimum** : Filtrer les buteurs
-   - De 0 à 31 buts
+## 10. Dépannage
+| Problème | Vérifications / solutions |
+|----------|--------------------------|
+| Le serveur ne démarre pas | Vérifier l'activation du virtualenv et l'installation des dépendances (`pip install -r requirements.txt`) |
+| Port occupé | Lancer `streamlit run dashboard.py --server.port 8502` |
+| Fichier CSV introuvable | Confirmer la présence de `top5-players24-25.csv` à la racine du projet |
+| Filtres vides | S'assurer que les colonnes attendues existent dans le CSV et qu'elles ne sont pas vides après filtrage |
 
-### 📑 Onglets du Dashboard
-
-#### 1️⃣ Vue d'Ensemble
-
-- **Top 10 Buteurs** et **Top 10 Passeurs**
-- **Distribution des positions** (graphique en camembert)
-- **Buts et Passes par ligue** (graphique en barres)
-
-#### 2️⃣ Buts par Match
-
-- **Moyenne de Buts/Match par Position**
-- **Distribution des Buts/Match** (histogramme)
-- **Relation MP vs Buts/Match** (scatter plot)
-- **Top 20 Joueurs par Buts/Match** (minimum 5 matchs)
-
-#### 3️⃣ Passes par Match
-
-- **Moyenne de Passes/Match par Position**
-- **Distribution des Passes/Match** (histogramme)
-- **Relation MP vs Passes/Match** (scatter plot)
-- **Top 20 Joueurs par Passes/Match** (minimum 5 matchs)
-
-#### 4️⃣ Temps de Jeu
-
-- **Minutes Moyennes par Match par Position**
-- **Taux de Titularisation par Position**
-- **Distribution des Minutes Totales**
-- **Minutes vs Matchs Joués** (scatter plot)
-- **Top 20 Joueurs par Minutes Jouées**
-
-#### 5️⃣ Analyse Détaillée
-
-- **Matrice de Corrélation** entre toutes les métriques
-- **Analyse 3D Interactive** : Buts/Match, Passes/Match, Minutes/Match
-- **Performance par Niveau d'Expérience** :
-  - Débutant (1-10 matchs)
-  - Intermédiaire (11-20 matchs)
-  - Confirmé (21-30 matchs)
-  - Expert (31+ matchs)
-- **Tableau Complet des Joueurs** (triable et filtrable)
-- **Bouton de Téléchargement** pour exporter les données filtrées en CSV
-
-## 🎯 Métriques Calculées
-
-Le dashboard calcule automatiquement :
-
-1. **Buts par Match** : `Gls / MP`
-2. **Passes par Match** : `Ast / MP`
-3. **Minutes par Match** : `Min / MP`
-4. **Niveau d'Expérience** : Basé sur le nombre de matchs joués
-5. **Ratio de Titularisation** : `Starts / MP × 100`
-
-## 💡 Cas d'Usage
-
-### 🔍 Scouting de Jeunes Talents
-
-```
-1. Filtrer : Âge ≤ 21 ans
-2. Filtrer : MP ≥ 10 (expérience minimale)
-3. Aller dans "Buts par Match" → Voir les buteurs efficaces
-4. Aller dans "Analyse Détaillée" → Télécharger la liste
-```
-
-### ⚽ Recherche de Buteurs Prolifiques
-
-```
-1. Filtrer : Buts Minimum ≥ 10
-2. Filtrer : Position = FW ou FW,MF
-3. Onglet "Buts par Match" → Analyser l'efficacité
-4. Comparer avec xG dans le tableau détaillé
-```
-
-### 🎯 Analyse des Créateurs de Jeu
-
-```
-1. Filtrer : Position = MF
-2. Filtrer : MP ≥ 20 (réguliers)
-3. Onglet "Passes par Match" → Top passeurs
-4. Analyser la corrélation avec le temps de jeu
-```
-
-### 🏆 Comparaison entre Ligues
-
-```
-1. Sélectionner une ligue spécifique
-2. Onglet "Vue d'Ensemble" → Voir les statistiques globales
-3. Comparer en changeant de ligue
-```
-
-## 🎨 Interactivité
-
-Tous les graphiques sont interactifs :
-
-- **Survolez** : Voir les détails d'un point/barre
-- **Zoomez** : Cliquez-glissez pour zoomer
-- **Cliquez sur la légende** : Masquer/afficher des catégories
-- **Double-clic** : Réinitialiser le zoom
-- **Export** : Bouton 📷 en haut à droite de chaque graphique
-
-## ⚙️ Configuration Avancée
-
-Pour modifier les couleurs ou le style, éditez `dashboard.py` :
-
-```python
-color_discrete_sequence=px.colors.qualitative.Set2
-color_continuous_scale='Reds'
-```
-
-## 🛑 Arrêter le Dashboard
-
-Dans le terminal où le dashboard tourne :
-
-- Appuyez sur **Ctrl + C**
-
-## 📝 Notes Importantes
-
-- Le dashboard se met à jour automatiquement quand vous modifiez les filtres
-- Les calculs sont mis en cache pour de meilleures performances
-- Minimum 5 matchs requis pour certains classements (évite les anomalies statistiques)
-- Les données sont rechargées automatiquement si le CSV change
-
-## 🆘 Dépannage
-
-### Le dashboard ne se lance pas
-
-```bash
-pip install --upgrade streamlit
-streamlit run dashboard.py
-```
-
-### Erreur de données manquantes
-
-```bash
-# Vérifier que le CSV existe
-ls -lh top5-players24-25.csv
-```
-
-### Port déjà utilisé
-
-```bash
-# Utiliser un autre port
-streamlit run dashboard.py --server.port 8502
-```
-
-## 📞 Support
-
-En cas de problème, vérifiez :
-
-1. ✅ L'environnement virtuel est activé
-2. ✅ Toutes les dépendances sont installées
-3. ✅ Le fichier CSV est dans le même dossier
-4. ✅ Aucun autre Streamlit ne tourne
+## 11. Ressources complémentaires
+- Documentation Streamlit : https://docs.streamlit.io
+- Documentation Plotly : https://plotly.com/python/
+- Guide Pandas : https://pandas.pydata.org/docs/
 
 ---
-
-**Bon Scouting ! ⚽🔥**
+Dernière mise à jour : ajustements du comparateur de joueurs et des visuels inter-ligues.
